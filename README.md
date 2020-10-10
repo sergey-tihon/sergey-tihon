@@ -41,6 +41,6 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-tihon&layout=compact" alt="sergey-tihon" /></p>
--->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergey-tihon&show_icons=true" alt="sergey-tihon" /></p>
+-->
