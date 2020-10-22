@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Advent Calendar in English 2020](https://sergeytihon.com/2020/10/22/f-advent-calendar-in-english-2020/)
 - [F# Weekly #42, 2020 – .NET 5.0 RC2](https://sergeytihon.com/2020/10/17/f-weekly-42-2020-net-5-0-rc2/)
 - [F# Weekly #41, 2020 – Exploration of Interactive Visualization in the ELM Architecture](https://sergeytihon.com/2020/10/10/f-weekly-41-2020-exploration-of-interactive-visualization-in-the-elm-architecture/)
 - [F# Weekly #40, 2020 – FSSF Mentoring, BOB CPF and F# eXchange](https://sergeytihon.com/2020/10/04/f-weekly-40-2020-fssf-mentoring-bob-cpf-and-f-exchange/)
 - [F# Weekly #39, 2020 – Giraffe is 50-100% faster of .NET 5 & F# eXchange 2020](https://sergeytihon.com/2020/09/26/f-weekly-39-2020-giraffe-is-50-100-faster-of-net-5-f-exchange-2020/)
-- [F# Weekly #38, 2020 – .NET 5 RC1 & F# Compiler Community Session](https://sergeytihon.com/2020/09/19/f-weekly-38-2020-net-5-rc1-f-compiler-community-session/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
