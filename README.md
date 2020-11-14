@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #46, .NET 5, F# 5 and nothing about Apple Silicon](https://sergeytihon.com/2020/11/14/f-weekly-46-net-5-f-5-and-nothing-about-apple-silicon/)
 - [F# Weekly #45, Dark’s new back end will be in F# & Resumable State Machines](https://sergeytihon.com/2020/11/07/f-weekly-45-darks-new-back-end-will-be-in-f-resumable-state-machines/)
 - [F# Weekly #44, F# Ukraine 2020 & F# Compiler Community Sessions](https://sergeytihon.com/2020/10/30/f-weekly-44-f-ukraine-2020-f-compiler-community-sessions/)
 - [F# Weekly #43, 2020 – #FsAdvent 2020 and 8 years of F# Weekly](https://sergeytihon.com/2020/10/23/f-weekly-43-2020-fsadvent-2020-and-8-years-of-f-weekly/)
 - [F# Advent Calendar in English 2020](https://sergeytihon.com/2020/10/22/f-advent-calendar-in-english-2020/)
-- [F# Weekly #42, 2020 – .NET 5.0 RC2](https://sergeytihon.com/2020/10/17/f-weekly-42-2020-net-5-0-rc2/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
