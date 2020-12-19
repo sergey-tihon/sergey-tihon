@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #51, Rider 2020.3 & FsLab](https://sergeytihon.com/2020/12/19/f-weekly-51-rider-2020-3-fslab/)
 - [F# Weekly #50, F# Lexer, Parser, quick fixes and codegen](https://sergeytihon.com/2020/12/12/f-weekly-50-f-lexer-parser-quick-fixes-and-codegen/)
 - [F# Weekly #49, #FsAdvent and Fable 3](https://sergeytihon.com/2020/12/05/f-weekly-49-fsadvent-and-fable-3/)
 - [F# Weekly #48, F# eXchange 2020 Videos](https://sergeytihon.com/2020/11/28/f-weekly-48-f-exchange-2020-videos/)
 - [F# Weekly #47, 5 years of Ionide](https://sergeytihon.com/2020/11/21/f-weekly-47-5-years-of-ionide/)
-- [F# Weekly #46, .NET 5, F# 5 and nothing about Apple Silicon](https://sergeytihon.com/2020/11/14/f-weekly-46-net-5-f-5-and-nothing-about-apple-silicon/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
