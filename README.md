@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #52, Ionide 5.0 & SSDT Type Provider](https://sergeytihon.com/2020/12/26/f-weekly-52-ionide-5-0-ssdt-type-provider/)
 - [F# Weekly #51, Rider 2020.3 & FsLab](https://sergeytihon.com/2020/12/19/f-weekly-51-rider-2020-3-fslab/)
 - [F# Weekly #50, F# Lexer, Parser, quick fixes and codegen](https://sergeytihon.com/2020/12/12/f-weekly-50-f-lexer-parser-quick-fixes-and-codegen/)
 - [F# Weekly #49, #FsAdvent and Fable 3](https://sergeytihon.com/2020/12/05/f-weekly-49-fsadvent-and-fable-3/)
 - [F# Weekly #48, F# eXchange 2020 Videos](https://sergeytihon.com/2020/11/28/f-weekly-48-f-exchange-2020-videos/)
-- [F# Weekly #47, 5 years of Ionide](https://sergeytihon.com/2020/11/21/f-weekly-47-5-years-of-ionide/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
