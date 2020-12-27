@@ -9,17 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sergey_tihon" target="blank"><img src="https://img.shields.io/twitter/follow/sergey_tihon?logo=twitter&style=for-the-badge" alt="sergey_tihon" /></a> </p>
 
-- 🔭 I’m currently working on [Clippit](https://github.com/sergey-tihon/Clippit)
-
-- 🌱 I’m currently learning **OpenShift, Blazor, Hangfire**
-
-- 🤝 I’m looking for help with [FSharp.Configuration](https://github.com/fsprojects/FSharp.Configuration/pull/139)
-
-- 📝 I regulary write articles on [https://sergeytihon.com](https://sergeytihon.com)
-
-- 📫 How to reach me **https://twitter.com/sergey_tihon**
-
-- ⚡ Fun fact **I love my beaver york**
+[![sergey-tihon's github stats](https://github-readme-stats.vercel.app/api?username=sergey-tihon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=false&count_private=true&include_all_commits=true)](https://github.com/sergey-tihon)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
