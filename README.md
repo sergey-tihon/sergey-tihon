@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #2, 2021 – F# coding conventions](https://sergeytihon.com/2021/01/08/f-weekly-2-2021-f-coding-conventions/)
 - [ML.NET Recommendation Engine: Pitfall of One-Class Matrix Factorization](https://sergeytihon.com/2021/01/05/ml-net-recommendation-engine-pitfall-of-one-class-matrix-factorization/)
 - [F# Weekly #1, 2021 – Happy New Year!](https://sergeytihon.com/2021/01/01/f-weekly-1-2021-happy-new-year/)
 - [F# Weekly #52, 2020 – Ionide 5.0 & SSDT Type Provider](https://sergeytihon.com/2020/12/26/f-weekly-52-ionide-5-0-ssdt-type-provider/)
 - [F# Weekly #51, 2020 – Rider 2020.3 & FsLab](https://sergeytihon.com/2020/12/19/f-weekly-51-rider-2020-3-fslab/)
-- [F# Weekly #50, 2020 – F# Lexer, Parser, quick fixes and codegen](https://sergeytihon.com/2020/12/12/f-weekly-50-f-lexer-parser-quick-fixes-and-codegen/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
