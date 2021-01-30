@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #5, 2021 – F#-friendly NuGet.org](https://sergeytihon.com/2021/01/30/f-weekly-5-2021-f-friendly-nuget-org/)
 - [F# Weekly #4, 2021 – Octonav, Fantomas & Avalonia](https://sergeytihon.com/2021/01/23/f-weekly-4-2021-octonav-fantomas-avalonia/)
 - [F# Weekly #3, 2021 – Fss, Ficus, fsdocs 8, Ionide 5.2](https://sergeytihon.com/2021/01/16/f-weekly-3-2021-fss-ficus-fsdocs-8-ionide-5-2/)
 - [F# Weekly #2, 2021 – F# coding conventions](https://sergeytihon.com/2021/01/08/f-weekly-2-2021-f-coding-conventions/)
 - [ML.NET Recommendation Engine: Pitfall of One-Class Matrix Factorization](https://sergeytihon.com/2021/01/05/ml-net-recommendation-engine-pitfall-of-one-class-matrix-factorization/)
-- [F# Weekly #1, 2021 – Happy New Year!](https://sergeytihon.com/2021/01/01/f-weekly-1-2021-happy-new-year/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
