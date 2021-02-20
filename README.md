@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #8, 2021 – .NET 6 Preview 1 and a methodical approach to looking at F# compile times](https://sergeytihon.com/2021/02/20/f-weekly-8-2021-net-6-preview-1-and-a-methodical-approach-to-looking-at-f-compile-times/)
 - [F# Weekly #7, 2021 – FunStripe, DacPac TP and F# Discord](https://sergeytihon.com/2021/02/13/f-weekly-7-2021-funstripe-dacpac-tp-and-f-discord/)
 - [F# Weekly #6, 2021 – Writing high performance F# code](https://sergeytihon.com/2021/02/06/f-weekly-6-2021-writing-high-performance-f-code/)
 - [F# Weekly #5, 2021 – F#-friendly NuGet.org](https://sergeytihon.com/2021/01/30/f-weekly-5-2021-f-friendly-nuget-org/)
 - [F# Weekly #4, 2021 – Octonav, Fantomas & Avalonia](https://sergeytihon.com/2021/01/23/f-weekly-4-2021-octonav-fantomas-avalonia/)
-- [F# Weekly #3, 2021 – Fss, Ficus, fsdocs 8, Ionide 5.2](https://sergeytihon.com/2021/01/16/f-weekly-3-2021-fss-ficus-fsdocs-8-ionide-5-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
