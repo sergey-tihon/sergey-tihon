@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #13, 2021 – F# Type checker](https://sergeytihon.com/2021/03/27/f-weekly-13-2021-f-type-checker/)
 - [F# Weekly #12, 2021 -Facil 1.0 & 4 years with Fable.Remoting](https://sergeytihon.com/2021/03/20/f-weekly-12-2021/)
 - [F# Weekly #11, 2021 – .NET 6 Preview 2 & Photino.NET](https://sergeytihon.com/2021/03/13/f-weekly-11-2021/)
 - [F# Weekly #10, 2021 – F# update for VS 16.9 & .NET Core 2.1 end of support](https://sergeytihon.com/2021/03/06/f-weekly-10-2021/)
 - [F# Weekly #9, 2021 – .NET Conf Focus on Windows](https://sergeytihon.com/2021/02/27/f-weekly-9-2021/)
-- [F# Weekly #8, 2021 – .NET 6 Preview 1 and a methodical approach to looking at F# compile times](https://sergeytihon.com/2021/02/20/f-weekly-8-2021-net-6-preview-1-and-a-methodical-approach-to-looking-at-f-compile-times/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
