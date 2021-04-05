@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [`dotnet watch` with Microsoft.Identity.Web or custom IDistributedCache](https://sergeytihon.com/2021/04/05/dotnet-watch-with-microsoft-identity-web-or-custom-idistributedcache/)
 - [F# Weekly #14, 2021 – Free F# Deep Dives eBook](https://sergeytihon.com/2021/04/03/f-weekly-14-2021/)
 - [F# Weekly #13, 2021 – F# Type checker](https://sergeytihon.com/2021/03/27/f-weekly-13-2021-f-type-checker/)
 - [F# Weekly #12, 2021 -Facil 1.0 & 4 years with Fable.Remoting](https://sergeytihon.com/2021/03/20/f-weekly-12-2021/)
 - [F# Weekly #11, 2021 – .NET 6 Preview 2 & Photino.NET](https://sergeytihon.com/2021/03/13/f-weekly-11-2021/)
-- [F# Weekly #10, 2021 – F# update for VS 16.9 & .NET Core 2.1 end of support](https://sergeytihon.com/2021/03/06/f-weekly-10-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
