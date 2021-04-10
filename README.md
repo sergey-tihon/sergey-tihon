@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #15, 2021 – .NET 6 Preview 3 and Rider 2021.1](https://sergeytihon.com/2021/04/10/f-weekly-15-2021-neet-6-preview-3-and-rider-2021-1/)
 - [Announcing OpenXML Package Explorer for VS Code](https://sergeytihon.com/2021/04/07/announcing-openxml-package-explorer-for-vs-code/)
 - [`dotnet watch` with Microsoft.Identity.Web or custom IDistributedCache](https://sergeytihon.com/2021/04/05/dotnet-watch-with-microsoft-identity-web-or-custom-idistributedcache/)
 - [F# Weekly #14, 2021 – Free F# Deep Dives eBook](https://sergeytihon.com/2021/04/03/f-weekly-14-2021/)
 - [F# Weekly #13, 2021 – F# Type checker](https://sergeytihon.com/2021/03/27/f-weekly-13-2021-f-type-checker/)
-- [F# Weekly #12, 2021 -Facil 1.0 & 4 years with Fable.Remoting](https://sergeytihon.com/2021/03/20/f-weekly-12-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
