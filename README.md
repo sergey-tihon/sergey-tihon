@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #20, 2021 – Fable.Form is released](https://sergeytihon.com/2021/05/15/f-weekly-20-2021-fable-form-is-released/)
 - [F# Weekly #19, 2021 – Bolero, Aardvark.Templates and README for NuGet packages](https://sergeytihon.com/2021/05/08/f-weekly-19-2021-bolero-aardvark-templates-and-readme-for-nuget-packages/)
 - [F# Weekly #18, 2021 – Hawaii, End of .NET 4.6.1 and ‘inline if lambda’](https://sergeytihon.com/2021/05/01/f-weekly-18-2021-hawaii-end-of-net-4-6-1-and-inline-if-lambda/)
 - [F# Weekly #17, 2021 – 64-bit Visual Studio 2022](https://sergeytihon.com/2021/04/24/f-weekly-17-2021-64-bit-visual-studio-2022/)
 - [F# Weekly #16, 2021 – F# Day, SqlHydra, HODI and fodinfo](https://sergeytihon.com/2021/04/18/f-weekly-16-2021-f-day-sqlhydra-hodi-and-fodinfo/)
-- [F# Weekly #15, 2021 – .NET 6 Preview 3 and Rider 2021.1](https://sergeytihon.com/2021/04/10/f-weekly-15-2021-neet-6-preview-3-and-rider-2021-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
