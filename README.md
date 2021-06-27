@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #26, 2021 – Narratives in The Early History of F#](https://sergeytihon.com/2021/06/27/f-weekly-26-2021-narratives-in-the-early-history-of-f/)
 - [F# Weekly #25, 2021 – .NET Conf: Focus on F# & Phillip Carter’s Announcement](https://sergeytihon.com/2021/06/19/f-weekly-25-2021-net-conf-focus-on-f-phillip-carters-announcement/)
 - [F# Weekly #24, 2021 – F# eXchange 2021 #CallForPapers](https://sergeytihon.com/2021/06/12/f-weekly-24-2021-f-exchange-2021-callforpapers/)
 - [F# Weekly #23, 2021 – F# Europe 2021 – Sept 17](https://sergeytihon.com/2021/06/05/f-weekly-23-2021-f-europe-2021-sept-17/)
 - [F# Weekly #22, 2021 – .NET 6 Preview 4 and .NET Conf 2021 dates](https://sergeytihon.com/2021/05/29/f-weekly-22-2021-net-6-preview-4-and-net-conf-2021-dates/)
-- [F# Weekly #21, 2021 – NBomber 2.0, Interview with Don and PHP support for Fable](https://sergeytihon.com/2021/05/22/f-weekly-21-2021-nbomber-2-0-interview-with-don-and-php-support-for-fable/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
