@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #29, 2021 – HOPL IV talk “Narratives in the Early History of F#” & .NET 6 Preview 6](https://sergeytihon.com/2021/07/17/f-weekly-29-2021-hopl-iv-talk-narratives-in-the-early-history-of-f-net-6-preview-6/)
 - [F# Weekly #28, 2021 – F# Community Bonanza & Rider on M1](https://sergeytihon.com/2021/07/10/f-weekly-28-2021-f-community-bonanza-rider-on-m1/)
 - [F# Weekly #27, 2021 – SAFE 3, Hawaii & #GitHubCopilot](https://sergeytihon.com/2021/07/02/f-weekly-27-2021-safe-3-hawaii-githubcopilot/)
 - [F# Weekly #26, 2021 – Narratives in The Early History of F#](https://sergeytihon.com/2021/06/27/f-weekly-26-2021-narratives-in-the-early-history-of-f/)
 - [F# Weekly #25, 2021 – .NET Conf: Focus on F# & Phillip Carter’s Announcement](https://sergeytihon.com/2021/06/19/f-weekly-25-2021-net-conf-focus-on-f-phillip-carters-announcement/)
-- [F# Weekly #24, 2021 – F# eXchange 2021 #CallForPapers](https://sergeytihon.com/2021/06/12/f-weekly-24-2021-f-exchange-2021-callforpapers/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
