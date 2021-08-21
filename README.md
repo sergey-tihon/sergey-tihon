@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #34, 2021 – HTML highlighting in F# interpolated strings](https://sergeytihon.com/2021/08/21/f-weekly-34-2021-html-highlighting-in-f-interpolated-strings/)
 - [F# Weekly #33, 2021 – .NET 6 Preview 7 and Paket 6](https://sergeytihon.com/2021/08/14/f-weekly-33-2021-net-6-preview-7-and-paket-6/)
 - [F# Weekly #32, 2021 – Finelines  & Ionide Tests Runner](https://sergeytihon.com/2021/08/07/f-weekly-32-2021-finelines-ionide-tests-runner/)
 - [F# Weekly #31, 2021 – Hello, I am GPT-3 and will explain to you why F# is a great](https://sergeytihon.com/2021/07/31/f-weekly-31-2021-hello-i-am-gpt-3-and-will-explain-to-you-why-f-is-a-great/)
 - [F# Weekly #30, 2021 – Save the date: July 29 – .NET Conf: Focus of F#](https://sergeytihon.com/2021/07/24/f-weekly-30-2021-save-the-date-july-29-net-conf-focus-of-f/)
-- [F# Weekly #29, 2021 – HOPL IV talk “Narratives in the Early History of F#” & .NET 6 Preview 6](https://sergeytihon.com/2021/07/17/f-weekly-29-2021-hopl-iv-talk-narratives-in-the-early-history-of-f-net-6-preview-6/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
