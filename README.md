@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #38, 2021 – .NET 6 RC1, VS2022 Preview 4 and Fable Rust by ncave](https://sergeytihon.com/2021/09/18/f-weekly-38-2021-net-6-rc1-vs2022-preview-4-and-fable-rust-by-ncave/)
 - [F# Weekly #37, 2021 – Don Syme defends lack of type classes](https://sergeytihon.com/2021/09/11/f-weekly-37-2021-don-syme-defends-lack-of-type-classes/)
 - [F# Weekly #36, 2021 – Sutil REPL, FSSF Election, int array and Myriad](https://sergeytihon.com/2021/09/04/f-weekly-36-2021-sutil-rep-fssf-election-int-array-and-myriad/)
 - [F# Weekly #35, 2021 – Optimizing Tasks in F# and CoolLang in F#](https://sergeytihon.com/2021/08/28/f-weekly-35-2021-optimizing-tasks-in-f-and-coollang-in-f/)
 - [F# Weekly #34, 2021 – HTML highlighting in F# interpolated strings](https://sergeytihon.com/2021/08/21/f-weekly-34-2021-html-highlighting-in-f-interpolated-strings/)
-- [F# Weekly #33, 2021 – .NET 6 Preview 7 and Paket 6](https://sergeytihon.com/2021/08/14/f-weekly-33-2021-net-6-preview-7-and-paket-6/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
