@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Advent Calendar in English 2021](https://sergeytihon.com/2021/10/18/f-advent-calendar-2021/)
 - [F# Weekly #42, 2021 – .NET 6 RC2 and What’s new in F# 6.0](https://sergeytihon.com/2021/10/16/f-weekly-42-2021-net-6-rc2-and-whats-new-in-f-6-0/)
 - [F# Weekly #41, 2021 – Support fast tailcalls in R2R](https://sergeytihon.com/2021/10/09/f-weekly-41-2021-support-fast-tailcalls-in-r2r/)
 - [F# Weekly #40, 2021 – Fable.Lit 1.0 & VS4Mac 2022 Preview](https://sergeytihon.com/2021/10/02/f-weekly-40-2021-fable-lit-1-0-vs4mac-2022-preview/)
 - [F# Weekly #39, 2021 – New NuGet.org Package Details Page](https://sergeytihon.com/2021/09/25/f-weekly-39-2021-new-nuget-org-package-details-page/)
-- [F# Weekly #38, 2021 – .NET 6 RC1, VS2022 Preview 4 and Fable Rust by ncave](https://sergeytihon.com/2021/09/18/f-weekly-38-2021-net-6-rc1-vs2022-preview-4-and-fable-rust-by-ncave/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
