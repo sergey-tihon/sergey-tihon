@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #46, 2021 -F# 6, .NET 6, VS2022 are officially released!](https://sergeytihon.com/2021/11/14/f-weekly-46-2021-f-6-net-6-vs2022-are-officially-released/)
 - [F# Weekly #45, 2021 – .NET 6 launch at .NET Conf, F# 6 and #FsAdvent](https://sergeytihon.com/2021/11/06/f-weekly-45-2021-net-6-launch-at-net-conf-f-6-and-fsadvent/)
 - [F# Weekly #44, 2021 – Nacara, #GitHubCopilot in Rider and Chet Husk @Microsoft!](https://sergeytihon.com/2021/10/30/f-weekly-44-2021-nacara-githubcopilot-in-rider-and-chet-husk-microsoft/)
 - [F# Weekly #43, 2021 – 9 years of F# Weekly, #FsAdvent 2021, F# eXchange 2021, F# 6.0 and Hot Reload drama](https://sergeytihon.com/2021/10/23/f-weekly-43-2021-9-years-of-f-weekly-fsadvent-2021-f-exchange-202-f-6-0-and-hot-reload-drama/)
 - [F# Advent Calendar in English 2021](https://sergeytihon.com/2021/10/18/f-advent-calendar-2021/)
-- [F# Weekly #42, 2021 – .NET 6 RC2 and What’s new in F# 6.0](https://sergeytihon.com/2021/10/16/f-weekly-42-2021-net-6-rc2-and-whats-new-in-f-6-0/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
