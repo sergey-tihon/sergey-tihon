@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #48, 2021 – Dynamic PGO in .NET 6.0, dotnet-gcmon and TypeInferencer](https://sergeytihon.com/2021/11/27/f-weekly-48-2021-dynamic-pgo-in-net-6-0-dotnet-gcmon-and-typeinferencer/)
 - [F# Weekly #47, 2021 – Fable 3.6 and rise of Fantomas](https://sergeytihon.com/2021/11/20/f-weekly-47-2021-fable-3-6-and-rise-of-fantomas/)
 - [F# Weekly #46, 2021 -F# 6, .NET 6, VS2022 are officially released!](https://sergeytihon.com/2021/11/14/f-weekly-46-2021-f-6-net-6-vs2022-are-officially-released/)
 - [F# Weekly #45, 2021 – .NET 6 launch at .NET Conf, F# 6 and #FsAdvent](https://sergeytihon.com/2021/11/06/f-weekly-45-2021-net-6-launch-at-net-conf-f-6-and-fsadvent/)
 - [F# Weekly #44, 2021 – Nacara, #GitHubCopilot in Rider and Chet Husk @Microsoft!](https://sergeytihon.com/2021/10/30/f-weekly-44-2021-nacara-githubcopilot-in-rider-and-chet-husk-microsoft/)
-- [F# Weekly #43, 2021 – 9 years of F# Weekly, #FsAdvent 2021, F# eXchange 2021, F# 6.0 and Hot Reload drama](https://sergeytihon.com/2021/10/23/f-weekly-43-2021-9-years-of-f-weekly-fsadvent-2021-f-exchange-202-f-6-0-and-hot-reload-drama/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
