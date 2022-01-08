@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #2, 2022 – VS 17.1 &amp; MAUI Previews, Fable for JS projects](https://sergeytihon.com/2022/01/08/f-weekly-2-2022-vs-17-1-maui-previews-fable-for-js-projects/)
 - [F# Weekly #1, 2022 – Happy New Year](https://sergeytihon.com/2022/01/01/f-weekly-1-2022-happy-new-year/)
 - [F# Weekly #52, 2021 – Merry Christmas, #FsAdvent &amp; F# at Grammarly](https://sergeytihon.com/2021/12/25/f-weekly-52-2021-merry-christmas-fsadvent-f-at-grammarly/)
 - [F# Weekly #51, 2021 – F# in Rider, Webpack in F#, PrettyFsi](https://sergeytihon.com/2021/12/18/f-weekly-51-2021-f-in-rider-webpack-in-f-prettyfsi/)
 - [F# Weekly #50, 2021 – Rider 2021.3, F# 6 Tasks and data pipelines](https://sergeytihon.com/2021/12/10/f-weekly-50-2021-rider-2021-3-f-6-tasks-and-data-pipelines/)
-- [F# Weekly #49, 2021 – #FsAdvent &amp; #adventofcode](https://sergeytihon.com/2021/12/04/f-weekly-49-2021-fsadvent-adventofcode/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
