@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #4, 2022 – F# to Rust &amp; F# Compiler Community Session](https://sergeytihon.com/2022/01/22/f-weekly-4-2022-f-to-rust-f-compiler-community-session/)
 - [“Hmm… looks like this file doesn’t have preview we can show you”](https://sergeytihon.com/2022/01/19/hmm-looks-like-this-file-doesnt-have-preview-we-can-show-you/)
 - [F# Weekly #3, 2022 – Faster Fable 3.7, WsdlProvider, λ-calculus compiler in F#](https://sergeytihon.com/2022/01/15/f-weekly-3-2022-faster-fable-3-7-wsdlprovider-%ce%bb-calculus-compiler-in-f/)
 - [F# Weekly #2, 2022 – VS 17.1 &amp; MAUI Previews, Fable for JS projects](https://sergeytihon.com/2022/01/08/f-weekly-2-2022-vs-17-1-maui-previews-fable-for-js-projects/)
 - [F# Weekly #1, 2022 – Happy New Year](https://sergeytihon.com/2022/01/01/f-weekly-1-2022-happy-new-year/)
-- [F# Weekly #52, 2021 – Merry Christmas, #FsAdvent &amp; F# at Grammarly](https://sergeytihon.com/2021/12/25/f-weekly-52-2021-merry-christmas-fsadvent-f-at-grammarly/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
