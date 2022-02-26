@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #9, 2022 – Stop Russian aggression against Ukraine! 🇺🇦](https://sergeytihon.com/2022/02/26/f-weekly-9-2022-stop-russian-aggression-against-ukraine-%f0%9f%87%ba%f0%9f%87%a6/)
 - [F# Weekly #8, 2022 – 20 years of #dotnet, .NET 7 Preview 1](https://sergeytihon.com/2022/02/19/f-weekly-8-2022-20-years-of-dotnet-net-7-preview-1/)
 - [F# Weekly #7, 2022 – End of .NET 5.0, VS 2019 and Start of F# Events Calendar](https://sergeytihon.com/2022/02/11/f-weekly-7-2022-end-of-net-5-0-vs-2019-and-start-of-f-events-calendar/)
 - [F# Weekly #6, 2022 – 20 years of .NET and 17 of F# #dotNETLovesMe](https://sergeytihon.com/2022/02/05/f-weekly-6-2022-20-year-of-net-and-17-of-f-dotnetlovesme/)
 - [F# Weekly #5, 2022 – F# and WebAssembly, F# Show](https://sergeytihon.com/2022/01/29/f-weekly-5-2022-f-and-webassembly-f-show/)
-- [F# Weekly #4, 2022 – F# to Rust &amp; F# Compiler Community Session](https://sergeytihon.com/2022/01/22/f-weekly-4-2022-f-to-rust-f-compiler-community-session/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
