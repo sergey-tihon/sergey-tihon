@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [F# Weekly #13, 2022 – Fast F#, new Fantomas and FsDoc](https://sergeytihon.com/2022/03/26/f-weekly-13-2022-fast-f-new-fantomas-and-fsdoc/)
+- [F# Weekly #13, 2022 – Fast F#, new Fantomas and FsDocs](https://sergeytihon.com/2022/03/26/f-weekly-13-2022-fast-f-new-fantomas-and-fsdoc/)
 - [F# Weekly #12, 2022 – .NET 7 Preview 2, Fable for Flutter!](https://sergeytihon.com/2022/03/18/f-weekly-12-2022-net-7-preview-2-fable-for-flutter/)
 - [F# Weekly #11, 2022 – IcedTasks &amp;  F# tool team positions in Prague](https://sergeytihon.com/2022/03/12/f-weekly-11-2022-icedtasks-f-tool-team-positions-in-prague/)
 - [F# Weekly #10, 2022 – FSSF Statement, Paket 7 and News from Don](https://sergeytihon.com/2022/03/04/f-weekly-10-2022-fssf-statement-paket-7-and-news-from-don/)
