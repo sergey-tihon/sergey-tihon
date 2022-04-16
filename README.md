@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #16, 2022 – Giraffe 6, Ionide 6, Saturn and MAUI RC](https://sergeytihon.com/2022/04/16/f-weekly-15-2022-giraffe-6-ionide-6-saturn-and-maui-rc/)
 - [F# Weekly #15, 2022 – One month till MAUI!](https://sergeytihon.com/2022/04/09/f-weekly-15-2022-one-month-till-maui/)
 - [F# Weekly #14, 2022 – Copilot for VS2022 and Copilot Labs](https://sergeytihon.com/2022/04/02/f-weekly-14-2022-copilot-for-vs2022-and-copilot-labs/)
 - [F# Weekly #13, 2022 – Fast F#, new Fantomas and FsDocs](https://sergeytihon.com/2022/03/26/f-weekly-13-2022-fast-f-new-fantomas-and-fsdoc/)
 - [F# Weekly #12, 2022 – .NET 7 Preview 2, Fable for Flutter!](https://sergeytihon.com/2022/03/18/f-weekly-12-2022-net-7-preview-2-fable-for-flutter/)
-- [F# Weekly #11, 2022 – IcedTasks &amp;  F# tool team positions in Prague](https://sergeytihon.com/2022/03/12/f-weekly-11-2022-icedtasks-f-tool-team-positions-in-prague/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
