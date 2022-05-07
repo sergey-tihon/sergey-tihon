@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #19, 2022 – Domain Modeling Made Functional](https://sergeytihon.com/2022/05/07/f-weekly-19-2022-domain-modeling-made-functional/)
 - [F# Weekly #18, 2022 – F# eXchange 2022 &amp; VS4Mac 2022 RC](https://sergeytihon.com/2022/04/29/f-weekly-18-2022-f-exchange-2022-vs4mac-2022-rc/)
 - [F# Weekly #17, 2022 – new Bolero, FSharp.CosmosDb and C# 11 Preview](https://sergeytihon.com/2022/04/23/f-weekly-17-2022-new-bolero-fsharp-cosmosdb-and-c-11-preview/)
 - [F# Weekly #16, 2022 – Giraffe 6, Ionide 6, Saturn and MAUI RC](https://sergeytihon.com/2022/04/16/f-weekly-15-2022-giraffe-6-ionide-6-saturn-and-maui-rc/)
 - [F# Weekly #15, 2022 – One month till MAUI!](https://sergeytihon.com/2022/04/09/f-weekly-15-2022-one-month-till-maui/)
-- [F# Weekly #14, 2022 – Copilot for VS2022 and Copilot Labs](https://sergeytihon.com/2022/04/02/f-weekly-14-2022-copilot-for-vs2022-and-copilot-labs/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
