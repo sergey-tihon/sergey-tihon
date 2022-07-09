@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #28, 2022 – Essential and Succinct F#!](https://sergeytihon.com/2022/07/09/f-weekly-28-2022-essential-and-succinct-f/)
 - [F# Weekly #27, 2022 – Functional Patterns in F# &amp; Video Collection](https://sergeytihon.com/2022/07/02/f-weekly-27-2022-functional-patterns-in-f-video-collection/)
 - [F# Weekly #26, 2022 – Succinct FSharp &amp; F# Template for MAUI](https://sergeytihon.com/2022/06/27/f-weekly-26-2022-succinct-fsharp-f-template-for-maui/)
 - [F# Weekly #25, 2022 – F# in Action by Isaac Abraham](https://sergeytihon.com/2022/06/18/f-weekly-24-2022-f-in-action/)
 - [F# Weekly #24, 2022 – Fable 4 &lpar;Snake Island&rpar;, Dark in F#, .NET 7 Preview 4](https://sergeytihon.com/2022/06/11/f-weekly-24-2022-fable-4-snake-island-dark-in-f-net-7-preview-4/)
-- [F# Weekly #23, 2022 – Fabulous 2.0, FsPdf and F# Weekly Reading](https://sergeytihon.com/2022/06/04/f-weekly-23-2022-fabulous-2-0-fspdf-and-f-weekly-reading/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
