@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #34, 2022 – Fantomas 5 Release Party &amp; Fabulous MAUI](https://sergeytihon.com/2022/08/27/f-weekly-34-2022-fantomas-5-release-party-fabulous-maui/)
 - [F# Weekly #33, 2022 – Fable with TP, Falco.Markup and new F# Kata](https://sergeytihon.com/2022/08/20/f-weekly-33-2022-fable-with-tp-falco-markup-and-new-f-kata/)
 - [F# Weekly #32, 2022 – .NET 7 Preview 7,  SynapseML, NuGet 6.3](https://sergeytihon.com/2022/08/13/f-weekly-32-2022-net-7-preview-7-synapseml-nuget-6-3/)
 - [F# Weekly #31, 2022 – Rider &amp; resharper-fsharp 2022.2](https://sergeytihon.com/2022/08/06/f-weekly-31-2022-rider-resharper-fsharp-2022-2/)
 - [F# Weekly #30, 2022 – Ionide 7.0, Falco and end of FusionTasks](https://sergeytihon.com/2022/07/30/f-weekly-30-2022-ionide-7-0-falco-and-end-of-fusiontasks/)
-- [F# Weekly #29, 2022 – Fable 4 REPL with Python, Rust and Dart &amp; fresh TechEmpower](https://sergeytihon.com/2022/07/23/f-weekly-29-2022-fable-4-repl-with-python-rust-and-dart-fresh-techempower/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
