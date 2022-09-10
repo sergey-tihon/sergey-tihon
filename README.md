@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #36, 2022 – Giraffe.Python, WPF.FuncUI and green threads](https://sergeytihon.com/2022/09/10/f-weekly-36-2022-giraffe-python-wpf-funcui-and-green-threads/)
 - [F# Weekly #35, 2022 – .NET 7 Performance and Giraffe.Pipelines](https://sergeytihon.com/2022/09/03/f-weekly-35-2022-net-7-performance-and-giraffe-pipelines/)
 - [New IKVM 8.2 &amp; MavenReference for .NET projects](https://sergeytihon.com/2022/08/28/new-ikvm-8-2-mavenreference-for-net-projects/)
 - [F# Weekly #34, 2022 – Fantomas 5 Release Party &amp; Fabulous MAUI](https://sergeytihon.com/2022/08/27/f-weekly-34-2022-fantomas-5-release-party-fabulous-maui/)
 - [F# Weekly #33, 2022 – Fable with TP, Falco.Markup and new F# Kata](https://sergeytihon.com/2022/08/20/f-weekly-33-2022-fable-with-tp-falco-markup-and-new-f-kata/)
-- [F# Weekly #32, 2022 – .NET 7 Preview 7,  SynapseML, NuGet 6.3](https://sergeytihon.com/2022/08/13/f-weekly-32-2022-net-7-preview-7-synapseml-nuget-6-3/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
