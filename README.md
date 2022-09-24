@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #38, 2022 – Falco Docs, Wasmtime 1.0 and F# bits](https://sergeytihon.com/2022/09/24/f-weekly-38-2022-falco-docs-wasmtime-1-0-and-f-bits/)
 - [F# Weekly #37, 2022 – Fantomas 5!](https://sergeytihon.com/2022/09/17/f-weekly-36-2022-fantomas-5/)
 - [F# Weekly #36, 2022 – Giraffe.Python, WPF.FuncUI and green threads](https://sergeytihon.com/2022/09/10/f-weekly-36-2022-giraffe-python-wpf-funcui-and-green-threads/)
 - [F# Weekly #35, 2022 – .NET 7 Performance and Giraffe.Pipelines](https://sergeytihon.com/2022/09/03/f-weekly-35-2022-net-7-performance-and-giraffe-pipelines/)
 - [New IKVM 8.2 &amp; MavenReference for .NET projects](https://sergeytihon.com/2022/08/28/new-ikvm-8-2-mavenreference-for-net-projects/)
-- [F# Weekly #34, 2022 – Fantomas 5 Release Party &amp; Fabulous MAUI](https://sergeytihon.com/2022/08/27/f-weekly-34-2022-fantomas-5-release-party-fabulous-maui/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
