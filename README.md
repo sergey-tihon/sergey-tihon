@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #44, 2022 – .NET Conf 2022 &amp; F# eXchange CFP](https://sergeytihon.com/2022/11/05/f-weekly-44-2022-net-conf-2022-f-exchange-cfp/)
 - [F# Weekly #43, 2022 – 10 years of F# Weekly and #FsAdvent 2022](https://sergeytihon.com/2022/10/29/f-weekly-43-2022-10-years-of-f-weekly-and-fsadvent-2022/)
 - [F# Advent Calendar in English 2022](https://sergeytihon.com/2022/10/28/f-advent-calendar-in-english-2022/)
 - [F# Weekly #42, 2022 – F# DOOM and F# eXchange CFS](https://sergeytihon.com/2022/10/22/f-weekly-42-2022-f-doom-and-f-exchange-cfs/)
 - [F# Weekly #41, 2022 – .NET 7 RC2, JSX and React components in Fable](https://sergeytihon.com/2022/10/15/f-weekly-41-2022-net-7-rc2-jsx-and-react-components-in-fable/)
-- [F# Weekly #40, 2022 – Telplin, Feliz.JSX and Fable.Packages](https://sergeytihon.com/2022/10/08/f-weekly-40-2022-telplin-feliz-jsx-and-fable-packages/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
