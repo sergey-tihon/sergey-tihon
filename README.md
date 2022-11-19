@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #46, 2022 – ASP.NET Core Perf and new F# Courses](https://sergeytihon.com/2022/11/19/f-weekly-46-2022-asp-net-core-perf-and-new-f-courses/)
 - [F# Weekly #45, 2022 – F# 7 and .NET 7](https://sergeytihon.com/2022/11/12/f-weekly-45-2022-f-7-and-net-7/)
 - [F# Weekly #44, 2022 – .NET Conf 2022 &amp; F# eXchange CFP](https://sergeytihon.com/2022/11/05/f-weekly-44-2022-net-conf-2022-f-exchange-cfp/)
 - [F# Weekly #43, 2022 – 10 years of F# Weekly and #FsAdvent 2022](https://sergeytihon.com/2022/10/29/f-weekly-43-2022-10-years-of-f-weekly-and-fsadvent-2022/)
 - [F# Advent Calendar in English 2022](https://sergeytihon.com/2022/10/28/f-advent-calendar-in-english-2022/)
-- [F# Weekly #42, 2022 – F# DOOM and F# eXchange CFS](https://sergeytihon.com/2022/10/22/f-weekly-42-2022-f-doom-and-f-exchange-cfs/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
