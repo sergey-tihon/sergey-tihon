@@ -23,6 +23,7 @@
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/sergey_tihon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sergey_tihon" height="30" width="40" /></a>
+<a rel="me" href="https://hachyderm.io/@sergey_tihon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="sergey_tihon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sergeytihon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sergeytihon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sergey-tihon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sergey-tihon" height="30" width="40" /></a>
 <a href="https://www.buymeacoffee.com/sergeytihon" target="_blank"><img align="center"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" /></a>
