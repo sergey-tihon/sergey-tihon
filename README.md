@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [F# Weekly #48, 2022 – #FsAdvent, AoC, Mastodon community](https://sergeytihon.com/2022/12/03/f-weekly-48-2022-fsadvent-aoc-mastodon-community/)
 - [F# Weekly #47, 2022 – #FsAdvent starts this week](https://sergeytihon.com/2022/11/26/f-weekly-47-2022-fsadvent-starts-next-week/)
-- [F# Weekly #46, 2022 – ASP.NET Core Perf and new F# Courses](https://sergeytihon.com/2022/11/19/f-weekly-46-2022-asp-net-core-perf-and-new-f-courses/)
+- [F# Weekly #46, 2022 – ASP.NET Core Perf and new F# Courses](https://sergeytihon.com/2022/11/19/f-weekly-46-2022-asp-net-core-perf-and-new-f-courses/)
 - [F# Weekly #45, 2022 – F# 7 and .NET 7](https://sergeytihon.com/2022/11/12/f-weekly-45-2022-f-7-and-net-7/)
 - [F# Weekly #44, 2022 – .NET Conf 2022 &amp; F# eXchange CFP](https://sergeytihon.com/2022/11/05/f-weekly-44-2022-net-conf-2022-f-exchange-cfp/)
 <!-- BLOG-POST-LIST:END -->
