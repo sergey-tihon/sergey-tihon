@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #51, 2022 – Merry Christmas!](https://sergeytihon.com/2022/12/24/f-weekly-51-2022-merry-christmas/)
 - [F# Weekly #50, 2022 – Cancelable Tasks, Contribution to compiler and move from #FsAdvent](https://sergeytihon.com/2022/12/17/f-weekly-50-2022-cancelable-tasks-contribution-to-compiler-and-move-from-fsadvent/)
 - [F# Weekly #49, 2022 – Rider 2022.3, F# AoC board, FSSF election](https://sergeytihon.com/2022/12/10/f-weekly-49-2022-rider-2022-3-f-aoc-board-fssf-election/)
 - [F# Weekly #48, 2022 – #FsAdvent, AoC, Mastodon community](https://sergeytihon.com/2022/12/03/f-weekly-48-2022-fsadvent-aoc-mastodon-community/)
 - [F# Weekly #47, 2022 – #FsAdvent starts this week](https://sergeytihon.com/2022/11/26/f-weekly-47-2022-fsadvent-starts-next-week/)
-- [F# Weekly #46, 2022 – ASP.NET Core Perf and new F# Courses](https://sergeytihon.com/2022/11/19/f-weekly-46-2022-asp-net-core-perf-and-new-f-courses/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
