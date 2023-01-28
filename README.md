@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #4, 2023 – Sutil 2.0 and Fabulous 2.2](https://sergeytihon.com/2023/01/28/f-weekly-4-2023-sutil-2-0-and-fabulous-2-2/)
 - [F# Weekly #3, 2023 – F# eXchange, ChatGPT as a service](https://sergeytihon.com/2023/01/21/f-weekly-3-2023-f-exchange-chatgpt-as-a-service/)
 - [F# Weekly #2, 2023 – F# Online, Fantomas VI, Dots](https://sergeytihon.com/2023/01/14/f-weekly-2-2023-f-online-fantomas-vi-dots/)
 - [F# Weekly #1, 2023 – Fast F#, Oly and Pulumi Codegen](https://sergeytihon.com/2023/01/07/f-weekly-1-2023-fast-f-oly-and-pulumi-codegen/)
 - [F# Weekly #52, 2022 – Happy New Year!](https://sergeytihon.com/2022/12/31/f-weekly-52-2022-happy-new-year/)
-- [F# Weekly #51, 2022 – Merry Christmas!](https://sergeytihon.com/2022/12/24/f-weekly-51-2022-merry-christmas/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
