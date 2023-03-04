@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [F# Weekly #7, 2023 – .NET 8 Preview 1, Florence, FAKE 6 and Plotly.NET 4](https://sergeytihon.com/2023/02/25/f-weekly-7-2023-net-8-preview-1-florence-fake-6-and-plotly-net-4/)
+- [F# Weekly #8, 2023 – .NET 8 Preview 1, Florence, FAKE 6 and Plotly.NET 4](https://sergeytihon.com/2023/02/25/f-weekly-7-2023-net-8-preview-1-florence-fake-6-and-plotly-net-4/)
 - [F# Weekly #7, 2023 – Elmish.Avalonia, SharpCells and new F# conf](https://sergeytihon.com/2023/02/18/f-weekly-7-2023-elmish-avalonia-sharpcells-and-new-f-conf/)
 - [F# Weekly #6, 2023 – Exercism’s Functional February](https://sergeytihon.com/2023/02/11/f-weekly-6-2023-exercisms-functional-february/)
 - [F# Weekly #5, 2023 – OpenAI-fsharp and F# Backend Web Frameworks](https://sergeytihon.com/2023/02/04/f-weekly-4-2023-openai-fsharp-and-f-backend-web-frameworks/)
