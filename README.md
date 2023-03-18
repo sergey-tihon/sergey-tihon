@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #11, 2023 – Fable 4, .NET 8 Preview 2, GPT-4](https://sergeytihon.com/2023/03/18/f-weekly-11-2023-fable-4-net-8-preview-2-gpt-4/)
 - [F# Weekly #10, 2023 – Rider 2023.1 EAP 7, VS 2022 – 17.5, Amplifying Ionide and FSAutocomplete](https://sergeytihon.com/2023/03/12/f-weekly-10-2023-rider-2023-1-eap-7-vs-2022-17-5-amplifying-ionide-and-fsautocomplete/)
 - [F# Weekly #9, 2023 – Amplifying F#](https://sergeytihon.com/2023/03/04/f-weekly-9-2023-amplifying-f/)
 - [F# Weekly #8, 2023 – .NET 8 Preview 1, Florence, FAKE 6 and Plotly.NET 4](https://sergeytihon.com/2023/02/25/f-weekly-7-2023-net-8-preview-1-florence-fake-6-and-plotly-net-4/)
 - [F# Weekly #7, 2023 – Elmish.Avalonia, SharpCells and new F# conf](https://sergeytihon.com/2023/02/18/f-weekly-7-2023-elmish-avalonia-sharpcells-and-new-f-conf/)
-- [F# Weekly #6, 2023 – Exercism’s Functional February](https://sergeytihon.com/2023/02/11/f-weekly-6-2023-exercisms-functional-february/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
