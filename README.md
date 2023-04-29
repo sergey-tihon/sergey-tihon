@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #17, 2023 – Vide and F# Mentorship](https://sergeytihon.com/2023/04/29/f-weekly-17-2023-vide-and-f-mentorship/)
 - [F# Weekly #16, 2023 – fsharpConf 2023](https://sergeytihon.com/2023/04/22/f-weekly-16-2023-fsharpconf-2023/)
 - [F# Weekly #15, 2023 – Data Science in F# &lpar;Berlin, 28–30 September&rpar;](https://sergeytihon.com/2023/04/15/f-weekly-15-2023-data-science-in-f-berlin-28-30-september/)
 - [F# Weekly #14, 2023 – Rider 2023.1 and OOP vs FP with C# and F#](https://sergeytihon.com/2023/04/08/f-weekly-14-2023-rider-2023-1-and-oop-vs-fp-with-c-and-f/)
 - [F# Weekly #13, 2023 – Fantomas 6](https://sergeytihon.com/2023/04/01/f-weekly-13-2023-fantomas-6/)
-- [F# Weekly #12, 2023 – Copilot X and F# in StarTreck](https://sergeytihon.com/2023/03/25/f-weekly-12-2023-copilot-x-and-f-in-startreck/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
