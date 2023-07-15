@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #28, 2023 – Referencing Fsproj files in F# scripts](https://sergeytihon.com/2023/07/15/f-weekly-28-2023-referencing-fsproj-files-in-f-scripts/)
 - [F# Weekly #27, 2023 – F# Hints in Visual Studio](https://sergeytihon.com/2023/07/08/f-weekly-27-2023-f-hint-in-visual-studio/)
 - [F# Weekly #26, 2023 – fsharpConf 2023 videos are now live](https://sergeytihon.com/2023/07/01/f-weekly-26-2023-fsharpconf-2023-videos-are-now-live/)
 - [F# Weekly #25, 2023 – Do not miss NEXT MONDAY!](https://sergeytihon.com/2023/06/24/f-weekly-25-2023-do-not-miss-next-monday/)
 - [F# Weekly #24, 2023 – fsharpConf 2023, Jun 26](https://sergeytihon.com/2023/06/17/f-weekly-24-2023-fsharpconf-2023-jun-26/)
-- [F# Weekly #23, 2023 – C# Dev Kit for VS Code](https://sergeytihon.com/2023/06/10/f-weekly-23-2023-c-dev-kit-for-vs-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
