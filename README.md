@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #33, 2023 – SponsorLink &amp; Rider F# features](https://sergeytihon.com/2023/08/20/f-weekly-33-2023-sponsorlink-rider-f-features/)
 - [F# Weekly #32, 2023 – .NET 8 Preview 7 and VS 17.7](https://sergeytihon.com/2023/08/13/f-weekly-32-2023-net-8-preview-7-and-vs-17-7/)
 - [F# Weekly #31, 2023 – .NET Conf and .NET 8 – Nov 14-16](https://sergeytihon.com/2023/08/05/f-weekly-31-2023-net-conf-and-net-8-nov-14-16/)
 - [F# Weekly #30, 2023 – Avalonia 11 and New syntax for string interpolation in F#](https://sergeytihon.com/2023/07/29/f-weekly-30-2023-avalonia-11-and-new-syntax-for-string-interpolation-in-f/)
 - [F# Weekly #29, 2023 – .NET Lambda Annotations Framework &lpar;AWS&rpar;](https://sergeytihon.com/2023/07/22/f-weekly-29-2023-net-lambda-annotations-framework-aws/)
-- [F# Weekly #28, 2023 – Referencing Fsproj files in F# scripts](https://sergeytihon.com/2023/07/15/f-weekly-28-2023-referencing-fsproj-files-in-f-scripts/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
