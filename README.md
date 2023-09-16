@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #37, 2023 – .NET 8 RC1, StereoDB and F# Tools is VS](https://sergeytihon.com/2023/09/16/f-weekly-37-2023-net-8-rc1-stereodb-and-f-tools-is-vs/)
 - [F# Weekly #36, 2023 – F# Code Fixes](https://sergeytihon.com/2023/09/10/f-weekly-36-2023-f-code-fixes/)
 - [F# Weekly #35, 2023 – 65% Off for Rider and VS4Mac Retirement.](https://sergeytihon.com/2023/09/02/f-weekly-35-2023-65-off-for-rider-and-vs4mac-retirement/)
 - [F# Weekly #34, 2023 –.NET 8.0 GC feature called DATAS](https://sergeytihon.com/2023/08/26/f-weekly-34-2023-net-8-0-gc-feature-called-datas/)
 - [F# Weekly #33, 2023 – SponsorLink &amp; Rider F# features](https://sergeytihon.com/2023/08/20/f-weekly-33-2023-sponsorlink-rider-f-features/)
-- [F# Weekly #32, 2023 – .NET 8 Preview 7 and VS 17.7](https://sergeytihon.com/2023/08/13/f-weekly-32-2023-net-8-preview-7-and-vs-17-7/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
