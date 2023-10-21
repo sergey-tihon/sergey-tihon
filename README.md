@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #42, 2023 – What’s new in F# 8](https://sergeytihon.com/2023/10/21/f-weekly-42-2023-whats-new-in-f-8/)
 - [F# Weekly #41, 2023 – Overhauled F# code fixes and .NET 8 RC2](https://sergeytihon.com/2023/10/14/f-weekly-41-2023-overhauled-f-code-fixes-and-net-8-rc2/)
 - [F# Weekly #40, 2023 – F# is not slow and used by Pulumi](https://sergeytihon.com/2023/10/06/f-weekly-40-2023-f-is-not-slow-and-used-by-pulumi/)
 - [F# Weekly #39, 2023 – New Fable Release!](https://sergeytihon.com/2023/09/30/f-weekly-39-2023-new-fable-release/)
 - [F# Weekly #38, 2023 – F# computations with the new ‘while!’ keyword](https://sergeytihon.com/2023/09/22/f-weekly-38-2023-f-computations-with-the-new-while-keyword/)
-- [F# Weekly #37, 2023 – .NET 8 RC1, StereoDB and F# Tools is VS](https://sergeytihon.com/2023/09/16/f-weekly-37-2023-net-8-rc1-stereodb-and-f-tools-is-vs/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
