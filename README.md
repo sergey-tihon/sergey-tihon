@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #44, 2023 – F# graph-based type checking](https://sergeytihon.com/2023/11/05/f-weekly-44-2023-f-graph-based-type-checking/)
 - [F# Weekly #43, 2023 – 11 year of F# Weekly and #FsAdvent 2023](https://sergeytihon.com/2023/10/28/f-weekly-43-2023-11-year-of-f-weekly-and-fsadvent-2023/)
 - [F# Advent Calendar in English 2023](https://sergeytihon.com/2023/10/28/f-advent-calendar-in-english-2023/)
 - [F# Weekly #42, 2023 – What’s new in F# 8](https://sergeytihon.com/2023/10/21/f-weekly-42-2023-whats-new-in-f-8/)
 - [F# Weekly #41, 2023 – Overhauled F# code fixes and .NET 8 RC2](https://sergeytihon.com/2023/10/14/f-weekly-41-2023-overhauled-f-code-fixes-and-net-8-rc2/)
-- [F# Weekly #40, 2023 – F# is not slow and used by Pulumi](https://sergeytihon.com/2023/10/06/f-weekly-40-2023-f-is-not-slow-and-used-by-pulumi/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
