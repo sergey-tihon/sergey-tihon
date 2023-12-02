@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #48, 2023 –SAFE Template v5 &amp; MyOwnDB v2](https://sergeytihon.com/2023/12/02/f-weekly-48-2023-safe-template-v5-myowndb-v2/)
 - [F# Weekly #47, 2023 – G-Research FSharp Analyzers](https://sergeytihon.com/2023/11/25/f-weekly-47-2023-g-research-fsharp-analyzers/)
 - [F# Weekly #46, 2023 – F# 8 and .NET Conf Announcement](https://sergeytihon.com/2023/11/18/f-weekly-46-2023-f-8-and-net-conf-announcement/)
 - [F# Weekly #45, 2023 – Second life for FsEye and FsSnip.net](https://sergeytihon.com/2023/11/11/f-weekly-45-2023-second-life-for-fseye-and-fssnip-net/)
 - [F# Weekly #44, 2023 – F# graph-based type checking](https://sergeytihon.com/2023/11/05/f-weekly-44-2023-f-graph-based-type-checking/)
-- [F# Weekly #43, 2023 – 11 year of F# Weekly and #FsAdvent 2023](https://sergeytihon.com/2023/10/28/f-weekly-43-2023-11-year-of-f-weekly-and-fsadvent-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
