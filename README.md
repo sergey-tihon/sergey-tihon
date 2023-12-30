@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #52, 2023 – Happy New Year!](https://sergeytihon.com/2023/12/30/f-weekly-52-2023-happy-new-year/)
 - [F# Weekly #51, 2023 – Merry Christmas!](https://sergeytihon.com/2023/12/23/f-weekly-51-2023-merry-christmas/)
 - [F# Weekly #50, 2023 – Season’s Greetings from Amplified F#](https://sergeytihon.com/2023/12/16/f-weekly-50-2023-seasons-greetings-from-amplified-f/)
 - [F# Weekly #49, 2023 – F# Advent 2023 has begun](https://sergeytihon.com/2023/12/09/f-weekly-48-2023-f-advent-2023-has-begun/)
 - [F# Weekly #48, 2023 –SAFE Template v5 &amp; MyOwnDB v2](https://sergeytihon.com/2023/12/02/f-weekly-48-2023-safe-template-v5-myowndb-v2/)
-- [F# Weekly #47, 2023 – G-Research FSharp Analyzers](https://sergeytihon.com/2023/11/25/f-weekly-47-2023-g-research-fsharp-analyzers/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
