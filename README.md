@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Software Engineer at EPAM</h1>
-<h3 align="center">Going its own way with F#.</h3>
+<h3 align="center">Father. Husband. Developer. Microsoft MVP. Likes F#, Rust 🦀 and OSS.</h3>
 
 <!---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergey-tihon&label=Profile%20views&color=0e75b6&style=flat" alt="sergey-tihon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergey-tihon" alt="sergey-tihon" /></a> </p>
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sergey-tihon&show_icons=true&count_private=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-tihon&layout=compact&count_private=true&theme=transparent" />
+</p>
 -->
 
-<p align="left"> <a href="https://twitter.com/sergey_tihon" target="blank"><img src="https://img.shields.io/twitter/follow/sergey_tihon?logo=twitter&style=for-the-badge" alt="sergey_tihon" /></a> </p>
-
-[![sergey-tihon's github stats](https://github-readme-stats.vercel.app/api?username=sergey-tihon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=false&count_private=true&include_all_commits=true)](https://github.com/sergey-tihon)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sergey-tihon&show_icons=true&count_private=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-tihon&layout=compact&count_private=true&theme=transparent" />
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
