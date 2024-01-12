@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #2, 2024 – F# in the 1BRC.NET](https://sergeytihon.com/2024/01/12/f-weekly-2-2024-f-in-the-1brc-net/)
 - [F# Weekly #1, 2024 – Glutinum, a new era for Fable bindings](https://sergeytihon.com/2024/01/06/f-weekly-1-2024-glutinum-a-new-era-for-fable-bindings/)
 - [F# Weekly | Behind The Scenes](https://sergeytihon.com/2024/01/02/f-weekly-behind-the-scenes/)
 - [F# Weekly #52, 2023 – Happy New Year!](https://sergeytihon.com/2023/12/30/f-weekly-52-2023-happy-new-year/)
 - [F# Weekly #51, 2023 – Merry Christmas!](https://sergeytihon.com/2023/12/23/f-weekly-51-2023-merry-christmas/)
-- [F# Weekly #50, 2023 – Season’s Greetings from Amplified F#](https://sergeytihon.com/2023/12/16/f-weekly-50-2023-seasons-greetings-from-amplified-f/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
