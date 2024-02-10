@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #6, 2024 – F# Essential Lectures and OpenSilver with F#](https://sergeytihon.com/2024/02/10/f-weekly-6-2024-f-essential-lectures-and-opensilver-with-f/)
 - [F# Weekly #5, 2024 – F# The Essentials Lectures &lpar;Feb 7th&rpar;](https://sergeytihon.com/2024/02/02/f-weekly-5-2024-f-the-essentials-lectures-feb-7th/)
 - [F# Weekly #4, 2024 – The future of Giraffe OSS](https://sergeytihon.com/2024/01/27/f-weekly-4-2024-the-future-of-giraffe-oss/)
 - [F# Weekly #3, 2024 – 10 years of FSharpLint](https://sergeytihon.com/2024/01/19/f-weekly-3-2024-10-years-of-fsharplint/)
 - [F# Weekly #2, 2024 – F# in the 1BRC.NET](https://sergeytihon.com/2024/01/12/f-weekly-2-2024-f-in-the-1brc-net/)
-- [F# Weekly #1, 2024 – Glutinum, a new era for Fable bindings](https://sergeytihon.com/2024/01/06/f-weekly-1-2024-glutinum-a-new-era-for-fable-bindings/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
