@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #10, 2024 – Join Amplifying F# Open Collective](https://sergeytihon.com/2024/03/09/f-weekly-10-2024-join-amplifying-f-open-collective/)
 - [F# Weekly #9, 2024 – Should Hedgehog be an official F# mascot?](https://sergeytihon.com/2024/03/02/f-weekly-9-2024-should-hedgehog-be-an-official-f-mascot/)
 - [F# Weekly #8, 2024 – Backlog for F# 9](https://sergeytihon.com/2024/02/24/f-weekly-8-2024-backlog-for-f-9/)
 - [F# Weekly #7, 2024 – .NET 9 Preview 1](https://sergeytihon.com/2024/02/17/f-weekly-7-2024-net-9-preview-1/)
 - [F# Weekly #6, 2024 – F# Essential Lectures and OpenSilver with F#](https://sergeytihon.com/2024/02/10/f-weekly-6-2024-f-essential-lectures-and-opensilver-with-f/)
-- [F# Weekly #5, 2024 – F# The Essentials Lectures &lpar;Feb 7th&rpar;](https://sergeytihon.com/2024/02/02/f-weekly-5-2024-f-the-essentials-lectures-feb-7th/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
