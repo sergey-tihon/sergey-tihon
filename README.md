@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Software Engineer at EPAM</h1>
-<h3 align="center">Father. Husband. Developer. Microsoft MVP. Likes F#, Rust 🦀 and OSS.</h3>
+<h3 align="center">Father. Husband. Developer. Microsoft MVP. Likes F# 🦔, Rust 🦀 and OSS.</h3>
 
 <!---
 <p align="left">
