@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #14, 2024 – ionide/FsAutoComplete](https://sergeytihon.com/2024/04/06/f-weekly-14-2024-ionide-fsautocomplete/)
 - [F# Weekly #13, 2024 – F# in Action is coming sooon.](https://sergeytihon.com/2024/03/30/f-weekly-13-2024-f-in-action-is-coming-sooon/)
 - [F# Weekly #12, 2024 – .NET Smart Components](https://sergeytihon.com/2024/03/23/f-weekly-12-2024-net-smart-components/)
 - [F# Weekly #11, 2024 – F# 8: the new while! keyword](https://sergeytihon.com/2024/03/16/f-weekly-11-2024-f-8-the-new-while-keyword/)
 - [F# Weekly #10, 2024 – Join Amplifying F# Open Collective](https://sergeytihon.com/2024/03/09/f-weekly-10-2024-join-amplifying-f-open-collective/)
-- [F# Weekly #9, 2024 – Should Hedgehog be an official F# mascot?](https://sergeytihon.com/2024/03/02/f-weekly-9-2024-should-hedgehog-be-an-official-f-mascot/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
