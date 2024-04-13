@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #15, 2024 – F# inside PostgreSQL, Rider 2024.1](https://sergeytihon.com/2024/04/13/f-weekly-15-2024-f-inside-postgresql-rider-2024-1/)
 - [F# Weekly #14, 2024 – ionide/FsAutoComplete](https://sergeytihon.com/2024/04/06/f-weekly-14-2024-ionide-fsautocomplete/)
 - [F# Weekly #13, 2024 – F# in Action is coming sooon.](https://sergeytihon.com/2024/03/30/f-weekly-13-2024-f-in-action-is-coming-sooon/)
 - [F# Weekly #12, 2024 – .NET Smart Components](https://sergeytihon.com/2024/03/23/f-weekly-12-2024-net-smart-components/)
 - [F# Weekly #11, 2024 – F# 8: the new while! keyword](https://sergeytihon.com/2024/03/16/f-weekly-11-2024-f-8-the-new-while-keyword/)
-- [F# Weekly #10, 2024 – Join Amplifying F# Open Collective](https://sergeytihon.com/2024/03/09/f-weekly-10-2024-join-amplifying-f-open-collective/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
