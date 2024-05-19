@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #20, 2024 – 30th anniversary of the invention of the |&gt; operator](https://sergeytihon.com/2024/05/19/f-weekly-20-2024-30th-anniversary-of-the-invention-of-the-operator/)
 - [F# Weekly #19, 2024 – F# Tree-Sitter](https://sergeytihon.com/2024/05/11/f-weekly-19-2024-f-tree-sitter/)
 - [F# Weekly #18, 2024 – F# Nullness support](https://sergeytihon.com/2024/05/04/f-weekly-18-2024-f-nullness-support/)
 - [F# Weekly #17, 2024 – F# Essential Lectures](https://sergeytihon.com/2024/04/27/f-weekly-17-2024-f-essential-lectures/)
 - [F# Weekly #16, 2024 – F# in Action now in print!](https://sergeytihon.com/2024/04/20/f-weekly-16-2024-f-in-action-now-in-print/)
-- [F# Weekly #15, 2024 – F# inside PostgreSQL, Rider 2024.1](https://sergeytihon.com/2024/04/13/f-weekly-15-2024-f-inside-postgresql-rider-2024-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
