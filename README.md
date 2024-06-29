@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [F# Weekly #24, 2024 – Adding #help to fsi](https://sergeytihon.com/2024/06/22/f-weekly-24-2024-adding-help-to-fsi/)
+- [F# Weekly #25, 2024 – Adding #help to fsi](https://sergeytihon.com/2024/06/22/f-weekly-24-2024-adding-help-to-fsi/)
 - [F# Weekly #24, 2024 – fsih, zed-sharp and farmer](https://sergeytihon.com/2024/06/15/f-weekly-24-2024-fsih-zed-sharp-and-farmer/)
 - [F# Weekly #23, 2024 – Official OpenAI library for .NET](https://sergeytihon.com/2024/06/08/f-weekly-23-2024-official-openai-library-for-net/)
 - [F# Weekly #22, 2024 – F# Developer Story](https://sergeytihon.com/2024/06/01/f-weekly-22-2024-f-developer-story/)
