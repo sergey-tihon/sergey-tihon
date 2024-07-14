@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #28, 2024 – The Dark Side of Nuget](https://sergeytihon.com/2024/07/14/f-weekly-28-2024-the-dark-side-of-nuget/)
 - [F# Weekly #27, 2024 – Building Functional TTRPG with F#](https://sergeytihon.com/2024/07/07/f-weekly-27-2024-building-functional-ttrpg-with-f/)
 - [F# Weekly #26, 2024 – WinMerge F# with syntax highlighting!](https://sergeytihon.com/2024/06/29/f-weekly-26-2024-winmerge-f-with-syntax-highlighting/)
 - [F# Weekly #25, 2024 – Adding #help to fsi](https://sergeytihon.com/2024/06/22/f-weekly-24-2024-adding-help-to-fsi/)
 - [F# Weekly #24, 2024 – fsih, zed-sharp and farmer](https://sergeytihon.com/2024/06/15/f-weekly-24-2024-fsih-zed-sharp-and-farmer/)
-- [F# Weekly #23, 2024 – Official OpenAI library for .NET](https://sergeytihon.com/2024/06/08/f-weekly-23-2024-official-openai-library-for-net/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
