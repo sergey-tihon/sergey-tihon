@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #32, 2024 – Rider 2024.2 is coming…](https://sergeytihon.com/2024/08/10/f-weekly-32-2024-rider-2024-2-is-coming/)
 - [F# Weekly #31, 2024 – Enhancing #help in F# Interactive](https://sergeytihon.com/2024/08/03/f-weekly-31-2024-enhancing-help-in-f-interactive/)
 - [F# Weekly #30, 2024 – F# Nullness Checking &amp; Avalonia 11.1](https://sergeytihon.com/2024/07/27/f-weekly-30-2024-f-nullness-checking-avalonia-11-1/)
 - [F# Weekly #29, 2024 – end of .NET 6 and Terrabuild](https://sergeytihon.com/2024/07/20/f-weekly-29-2024-end-of-net-6-and-terrabuild/)
 - [F# Weekly #28, 2024 – The Dark Side of Nuget](https://sergeytihon.com/2024/07/14/f-weekly-28-2024-the-dark-side-of-nuget/)
-- [F# Weekly #27, 2024 – Building Functional TTRPG with F#](https://sergeytihon.com/2024/07/07/f-weekly-27-2024-building-functional-ttrpg-with-f/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
