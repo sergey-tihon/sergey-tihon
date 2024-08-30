@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #35, 2024 – |&gt; for Google SQL and FSI diagnostics](https://sergeytihon.com/2024/08/30/f-weekly-35-2024-for-google-sql-and-fsi-diagnostics/)
 - [F# Weekly #34, 2024 – F# is fun&lpar;&rpar;, Focus on AI and Omni Blade](https://sergeytihon.com/2024/08/25/f-weekly-34-2024-f-is-fun-focus-on-ai-and-omni-blade/)
 - [F# Weekly #33, 2024 – F# from the maintainers’ perspective](https://sergeytihon.com/2024/08/18/f-weekly-33-2024-f-from-the-maintainers-perspective/)
 - [F# Weekly #32, 2024 – Rider 2024.2 is coming…](https://sergeytihon.com/2024/08/10/f-weekly-32-2024-rider-2024-2-is-coming/)
 - [F# Weekly #31, 2024 – Enhancing #help in F# Interactive](https://sergeytihon.com/2024/08/03/f-weekly-31-2024-enhancing-help-in-f-interactive/)
-- [F# Weekly #30, 2024 – F# Nullness Checking &amp; Avalonia 11.1](https://sergeytihon.com/2024/07/27/f-weekly-30-2024-f-nullness-checking-avalonia-11-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
