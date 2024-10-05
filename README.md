@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #40, 2024 – Fable 4.22](https://sergeytihon.com/2024/10/05/f-weekly-49-2024-fable-4-22/)
 - [F# Weekly #39, 2024 – new FAKE, Oxpecker in TechEmpower, Gleam to F# and .NET Days 2024](https://sergeytihon.com/2024/09/28/f-weekly-39-2024-new-fake-oxpecker-in-techempower-gleam-to-f-and-net-days-2024/)
 - [F# Weekly #38, 2024 – Having lunch with 🦔🦔🦔🦔🦔🦔](https://sergeytihon.com/2024/09/21/f-weekly-38-2024-having-lunch-with-%f0%9f%a6%94%f0%9f%a6%94%f0%9f%a6%94%f0%9f%a6%94%f0%9f%a6%94%f0%9f%a6%94/)
 - [F# Weekly #37, 2024 – .NET 9 RC1, &amp; F# 9](https://sergeytihon.com/2024/09/14/f-weekly-37-2024-net-9-rc1-f-9/)
 - [F# Weekly #36, 2024 – Build Our Own ArrayPool &amp; Open CFPs](https://sergeytihon.com/2024/09/07/f-weekly-36-2024-build-our-own-arraypool-open-cfps/)
-- [F# Weekly #35, 2024 – |&gt; for Google SQL and FSI diagnostics](https://sergeytihon.com/2024/08/30/f-weekly-35-2024-for-google-sql-and-fsi-diagnostics/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
