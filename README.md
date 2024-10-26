@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Advent Calendar in English 2024](https://sergeytihon.com/2024/10/26/f-advent-calendar-in-english-2024/)
 - [F# Weekly #42, 2024 – F# is 10000x more expressive than JS.](https://sergeytihon.com/2024/10/19/f-weekly-42-2024-f-is-10000x-more-expressive-than-js/)
 - [F# Weekly #41, 2024 – .NET 9 RC2, Fesh and AI Extensions](https://sergeytihon.com/2024/10/12/f-weekly-41-2024-net-9-rc2-fesh-and-ai-extensions/)
 - [F# Weekly #40, 2024 – Fable 4.22](https://sergeytihon.com/2024/10/05/f-weekly-49-2024-fable-4-22/)
 - [F# Weekly #39, 2024 – new FAKE, Oxpecker in TechEmpower, Gleam to F# and .NET Days 2024](https://sergeytihon.com/2024/09/28/f-weekly-39-2024-new-fake-oxpecker-in-techempower-gleam-to-f-and-net-days-2024/)
-- [F# Weekly #38, 2024 – Having lunch with 🦔🦔🦔🦔🦔🦔](https://sergeytihon.com/2024/09/21/f-weekly-38-2024-having-lunch-with-%f0%9f%a6%94%f0%9f%a6%94%f0%9f%a6%94%f0%9f%a6%94%f0%9f%a6%94%f0%9f%a6%94/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
