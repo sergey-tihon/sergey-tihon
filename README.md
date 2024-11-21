@@ -16,7 +16,7 @@
 - [F# Weekly #46, 2024 – .NET 9, F# Nullable Reference Types, New Home on BlueSky](https://sergeytihon.com/2024/11/17/f-weekly-46-2024-net-9-f-nullable-reference-types-new-home-on-bluesky/)
 - [F# Weekly #45, 2024 – What’s new in F# 9](https://sergeytihon.com/2024/11/10/f-weekly-45-2024-whats-new-in-f-9/)
 - [F# Weekly #44, 2024 – Multi-modal GitHub Copilot](https://sergeytihon.com/2024/11/02/f-weekly-44-2024-multi-modal-github-copilot/)
-- [F# Weekly #43, 2024 – 12 years of F# Weekly and #FsAdvent 2024](https://sergeytihon.com/2024/10/26/f-weekly-43-2024-12-years-of-f-weekly-and-fsadvent-2024/)
+- [F# Weekly #43, 2024 – 12 years of F# Weekly and #FsAdvent 2024](https://sergeytihon.com/2024/10/26/f-weekly-43-2024-12-years-of-f-weekly-and-fsadvent-2024/)
 - [F# Advent Calendar in English 2024](https://sergeytihon.com/2024/10/26/f-advent-calendar-in-english-2024/)
 <!-- BLOG-POST-LIST:END -->
 
