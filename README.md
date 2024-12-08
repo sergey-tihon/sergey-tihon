@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #49, 2024 – Write F# and win PXL-CLOCK!](https://sergeytihon.com/2024/12/08/f-weekly-49-2024-write-f-and-win-pxl-clock/)
 - [F# Weekly #48, 2024 – Tomorrow is the first day of #FsAdvent](https://sergeytihon.com/2024/11/30/f-weekly-48-2024-tomorrow-is-the-first-day-of-fsadvent/)
 - [F# Weekly #47, 2024 – Oxpecker 1.0](https://sergeytihon.com/2024/11/23/f-weekly-47-2024-oxpecker-1-0/)
 - [F# Weekly #46, 2024 – .NET 9, F# Nullable Reference Types, New Home on BlueSky](https://sergeytihon.com/2024/11/17/f-weekly-46-2024-net-9-f-nullable-reference-types-new-home-on-bluesky/)
 - [F# Weekly #45, 2024 – What’s new in F# 9](https://sergeytihon.com/2024/11/10/f-weekly-45-2024-whats-new-in-f-9/)
-- [F# Weekly #44, 2024 – Multi-modal GitHub Copilot](https://sergeytihon.com/2024/11/02/f-weekly-44-2024-multi-modal-github-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
