@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #52, 2024 – Happy Holidays](https://sergeytihon.com/2024/12/28/f-weekly-52-2024-happy-holidays/)
 - [F# Weekly #51, 2024 – Merry Christmas](https://sergeytihon.com/2024/12/22/f-weekly-51-2024-merry-christmas/)
 - [F# Weekly #50, 2024 – F# Cognitive Load and Productivity](https://sergeytihon.com/2024/12/14/f-weekly-50-2024-f-cognitive-load-and-productivity/)
 - [F# Weekly #49, 2024 – Write F# and win PXL-CLOCK!](https://sergeytihon.com/2024/12/08/f-weekly-49-2024-write-f-and-win-pxl-clock/)
 - [F# Weekly #48, 2024 – Tomorrow is the first day of #FsAdvent](https://sergeytihon.com/2024/11/30/f-weekly-48-2024-tomorrow-is-the-first-day-of-fsadvent/)
-- [F# Weekly #47, 2024 – Oxpecker 1.0](https://sergeytihon.com/2024/11/23/f-weekly-47-2024-oxpecker-1-0/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
