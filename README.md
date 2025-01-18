@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #3, 2025 – Going 15 Percent Faster](https://sergeytihon.com/2025/01/18/f-weekly-3-2025-going-15-percent-faster/)
 - [F# Weekly #2, 2025 – Pandora Jewelry uses F#](https://sergeytihon.com/2025/01/12/f-weekly-2-2025-pandora-jewelry-uses-f/)
 - [F# Weekly #1, 2025 – Happy New Year](https://sergeytihon.com/2025/01/05/f-weekly-1-2025-happy-holidays/)
 - [F# Weekly #52, 2024 – Happy Holidays](https://sergeytihon.com/2024/12/28/f-weekly-52-2024-happy-holidays/)
 - [F# Weekly #51, 2024 – Merry Christmas](https://sergeytihon.com/2024/12/22/f-weekly-51-2024-merry-christmas/)
-- [F# Weekly #50, 2024 – F# Cognitive Load and Productivity](https://sergeytihon.com/2024/12/14/f-weekly-50-2024-f-cognitive-load-and-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
