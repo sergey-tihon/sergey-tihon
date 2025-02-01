@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #5, 2025 – Falco v5 🎉](https://sergeytihon.com/2025/02/01/f-weekly-5-2025-falco-v5-%f0%9f%8e%89/)
 - [F# Weekly #4, 2025 – F# Language Design squad](https://sergeytihon.com/2025/01/26/f-weekly-4-2025-f-language-design-squad/)
 - [F# Weekly #3, 2025 – Going 15 Percent Faster](https://sergeytihon.com/2025/01/18/f-weekly-3-2025-going-15-percent-faster/)
 - [F# Weekly #2, 2025 – Pandora Jewelry uses F#](https://sergeytihon.com/2025/01/12/f-weekly-2-2025-pandora-jewelry-uses-f/)
 - [F# Weekly #1, 2025 – Happy New Year](https://sergeytihon.com/2025/01/05/f-weekly-1-2025-happy-holidays/)
-- [F# Weekly #52, 2024 – Happy Holidays](https://sergeytihon.com/2024/12/28/f-weekly-52-2024-happy-holidays/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
