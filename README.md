@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #8, 2025 – Juniper or Forro?](https://sergeytihon.com/2025/02/23/f-weekly-8-2025-juniper-or-forro/)
 - [F# Weekly #7, 2025 – Furnace &lpar;tensor library with support for differentiable programming&rpar;](https://sergeytihon.com/2025/02/16/f-weekly-7-2025-furnace-tensor-library-with-support-for-differentiable-programming/)
 - [F# Weekly #6, 2025 – Will TypeProvider come to C#?](https://sergeytihon.com/2025/02/09/f-weekly-6-2025-will-typeprovider-come-to-c/)
 - [F# Weekly #5, 2025 – Falco v5 🎉](https://sergeytihon.com/2025/02/01/f-weekly-5-2025-falco-v5-%f0%9f%8e%89/)
 - [F# Weekly #4, 2025 – F# Language Design squad](https://sergeytihon.com/2025/01/26/f-weekly-4-2025-f-language-design-squad/)
-- [F# Weekly #3, 2025 – Going 15 Percent Faster](https://sergeytihon.com/2025/01/18/f-weekly-3-2025-going-15-percent-faster/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
