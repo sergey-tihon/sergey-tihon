@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #17, 2025 – Build 2025 &lpar;May 19-22&rpar;](https://sergeytihon.com/2025/04/26/f-weekly-17-2025-build-2025-may-19-22/)
 - [F# Weekly #16, 2025 – Rider 2025.1 &amp; SqlHydra 3](https://sergeytihon.com/2025/04/19/f-weekly-16-2025-rider-2025-1-sqlhydra-3/)
 - [F# Weekly #15, 2025 – .NET 10 Preview 3 &amp; MCP Azure Functions](https://sergeytihon.com/2025/04/12/f-weekly-15-2025-net-10-preview-3-mcp-azure-functions/)
 - [F# Weekly #14, 2025 – Electrifying Norway with F# and DDD](https://sergeytihon.com/2025/04/05/f-weekly-14-2025-electrifying-norway-with-f-and-ddd/)
 - [F# Weekly #13 2025 – WebSharper 8.0](https://sergeytihon.com/2025/03/29/f-weekly-13-2025-websharper-8-0/)
-- [F# Weekly #12 2025 – .NET 10 Preview 2 &amp; MSTest 3.8](https://sergeytihon.com/2025/03/22/f-weekly-12-2025-net-10-preview-2-mstest-3-8/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
