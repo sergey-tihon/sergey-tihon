@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pi-hole DNS on UGOS PRO 1.6.0.2917](https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/)
 - [F# Weekly #25, 2025 – 7 Reasons F# Sucks](https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/)
 - [F# Weekly #24, 2025 – Fidelity &amp; BAREWire](https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/)
 - [F# Weekly #23, 2025 – Catch up on Microsoft Build](https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/)
 - [F# Weekly #22, 2025 – Ionide with Cursor](https://sergeytihon.com/2025/06/01/f-weekly-22-2025-ionide-with-cursor/)
-- [F# Weekly #21, 2025 – Build 2025 &amp; ReSharper in VS Code](https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
