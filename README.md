@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #31, 2025 – Aspire 9.4](https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/)
 - [F# Weekly #30, 2025 – Quipu &amp; Perla](https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/)
 - [F# Weekly #29, 2025 – .NET 10 Preview 6](https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/)
 - [F# Weekly #28, 2025 – Beyond Zero-Allocation](https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/)
 - [F# Weekly #27, 2025 – Breaking changes: Yay or Nay?](https://sergeytihon.com/2025/07/05/f-weekly-27-2025-breaking-changes-yay-or-nay/)
-- [F# Weekly #26, 2025 – Sprout: BDD Testing for F#](https://sergeytihon.com/2025/06/28/f-weekly-26-2025-sprout-bdd-testing-for-f/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
