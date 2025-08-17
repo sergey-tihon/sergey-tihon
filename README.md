@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #33, 2025 – Rider 2025.2 &amp; .NET 10 Preview 7](https://sergeytihon.com/2025/08/17/f-weekly-33-2025-rider-2025-2-net-10-preview-7/)
 - [F# Weekly #32, 2025 – Call for Speakers: .NET Conf 2025 &amp; JetBrains .NET Days](https://sergeytihon.com/2025/08/10/f-weekly-32-2025-call-for-speakers-net-conf-2025-jetbrains-net-days/)
 - [F# Weekly #31, 2025 – Aspire 9.4](https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/)
 - [F# Weekly #30, 2025 – Quipu &amp; Perla](https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/)
 - [F# Weekly #29, 2025 – .NET 10 Preview 6](https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/)
-- [F# Weekly #28, 2025 – Beyond Zero-Allocation](https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
