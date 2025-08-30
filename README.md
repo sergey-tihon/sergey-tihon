@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #35, 2025 – AI agents can write F#!](https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/)
 - [F# Weekly #34, 2025 – FsiX: new F# REPL with hot reloading](https://sergeytihon.com/2025/08/24/f-weekly-34-2025-fsix-new-f-repl-with-hot-reloading/)
 - [F# Weekly #33, 2025 – Rider 2025.2 &amp; .NET 10 Preview 7](https://sergeytihon.com/2025/08/17/f-weekly-33-2025-rider-2025-2-net-10-preview-7/)
 - [F# Weekly #32, 2025 – Call for Speakers: .NET Conf 2025 &amp; JetBrains .NET Days](https://sergeytihon.com/2025/08/10/f-weekly-32-2025-call-for-speakers-net-conf-2025-jetbrains-net-days/)
 - [F# Weekly #31, 2025 – Aspire 9.4](https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/)
-- [F# Weekly #30, 2025 – Quipu &amp; Perla](https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
