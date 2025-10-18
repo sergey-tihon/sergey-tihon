@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #42, 2025 – Hi, Victor &amp; .NET 10 RC2](https://sergeytihon.com/2025/10/18/f-weekly-42-2025-hi-victor-net-10-rc2/)
 - [F# Weekly #41, 2025 – JetBrains .NET Days Online 2025](https://sergeytihon.com/2025/10/11/f-weekly-41-2025-jetbrains-net-days-online-2025/)
 - [F# Weekly #40, 2025 – Microsoft Agent Framework &lpar;Preview&rpar;](https://sergeytihon.com/2025/10/04/f-weekly-40-2025-microsoft-agent-framework-preview/)
 - [F# Weekly #39, 2025 – amplifyingfsharp.io](https://sergeytihon.com/2025/09/27/f-weekly-39-2025-amplifyingfsharp-io/)
 - [F# Weekly #38, 2025 – .NET STS releases supported for 24 months](https://sergeytihon.com/2025/09/21/f-weekly-38-2025-net-sts-releases-supported-for-24-months/)
-- [F# Weekly #37, 2025 – .NET 10 RC1 &amp; FScrobble](https://sergeytihon.com/2025/09/13/f-weekly-37-2025-net-10-rc1-fscrobble/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
