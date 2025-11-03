@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Advent Calendar in English 2025](https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/)
 - [F# Weekly #44, 2025 – .NET Conf – Nov 11-13](https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/)
 - [F# Weekly #43, 2025 – Sponsorship on NuGet.org &amp; TinyHM](https://sergeytihon.com/2025/10/25/f-weekly-43-2025-sponsorship-on-nuget-org-tinyhm/)
 - [F# Weekly #42, 2025 – Hi, Victor &amp; .NET 10 RC2](https://sergeytihon.com/2025/10/18/f-weekly-42-2025-hi-victor-net-10-rc2/)
 - [F# Weekly #41, 2025 – JetBrains .NET Days Online 2025](https://sergeytihon.com/2025/10/11/f-weekly-41-2025-jetbrains-net-days-online-2025/)
-- [F# Weekly #40, 2025 – Microsoft Agent Framework &lpar;Preview&rpar;](https://sergeytihon.com/2025/10/04/f-weekly-40-2025-microsoft-agent-framework-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
