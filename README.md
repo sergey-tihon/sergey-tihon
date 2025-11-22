@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #47, 2025 – F# 10 &amp; last #FsAdvent slots](https://sergeytihon.com/2025/11/22/f-weekly-47-2025-f-10-last-fsadvent-slots/)
 - [F# Weekly #46, 2025 – #FsAdvent &amp; .NET Conf 2025](https://sergeytihon.com/2025/11/14/f-weekly-46-2025-fsadvent-net-conf-2025/)
 - [F# Advent Calendar in English 2025](https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/)
 - [F# Weekly #44, 2025 – .NET Conf – Nov 11-13](https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/)
 - [F# Weekly #43, 2025 – Sponsorship on NuGet.org &amp; TinyHM](https://sergeytihon.com/2025/10/25/f-weekly-43-2025-sponsorship-on-nuget-org-tinyhm/)
-- [F# Weekly #42, 2025 – Hi, Victor &amp; .NET 10 RC2](https://sergeytihon.com/2025/10/18/f-weekly-42-2025-hi-victor-net-10-rc2/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
