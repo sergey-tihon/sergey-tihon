@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #50, 2025 – Making of A Programming Language](https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/)
 - [F# Weekly #49, 2025 – Oxpecker 2, fsi-mcp, LSP &amp; AOC in F#](https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/)
 - [F# Weekly #48, 2025 – #FsAdvent starts Dec 1st.](https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/)
 - [F# Weekly #47, 2025 – F# 10 &amp; last #FsAdvent slots](https://sergeytihon.com/2025/11/22/f-weekly-47-2025-f-10-last-fsadvent-slots/)
 - [F# Weekly #46, 2025 – #FsAdvent &amp; .NET Conf 2025](https://sergeytihon.com/2025/11/14/f-weekly-46-2025-fsadvent-net-conf-2025/)
-- [F# Advent Calendar in English 2025](https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
