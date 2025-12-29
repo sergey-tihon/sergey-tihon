@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Software Engineer at EPAM</h1>
-<h3 align="center">Father. Husband. Developer. Microsoft MVP. Likes F# 🦔, Rust 🦀 and OSS.</h3>
+<h3 align="center">Father | Husband | Developer | Microsoft MVP</h3>
 
-<!---
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sergey-tihon&show_icons=true&count_private=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-tihon&layout=compact&count_private=true&theme=transparent" />
-</p>
--->
+---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sergey-tihon&show_icons=true&count_private=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-tihon&layout=compact&count_private=true&theme=transparent" />
+[![My Interests](https://skillicons.dev/icons?i=dotnet,rust,neovim,obsidian,github,rider,arch,bevy,azure)](https://skillicons.dev)
 
-### Blogs posts
+---
+
 <!-- BLOG-POST-LIST:START -->
 - [F# Weekly #52, 2025 – Happy New Year](https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/)
 - [F# Weekly #51, 2025 – WebSharper 10 &amp; Fidelity Framework](https://sergeytihon.com/2025/12/20/f-weekly-51-2025-websharper-10-fidelity-framework/)
@@ -20,24 +15,17 @@
 - [F# Weekly #48, 2025 – #FsAdvent starts Dec 1st.](https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"> 
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/sergey_tihon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sergey_tihon" height="30" width="40" /></a>
-<a rel="me" href="https://hachyderm.io/@sergey_tihon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="sergey_tihon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sergeytihon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sergeytihon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sergey-tihon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sergey-tihon" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/sergeytihon" target="_blank"><img align="center"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" /></a>
+---
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/sergeytihon.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergeytihon)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sergey-tihon)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://sergeytihon.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sergeytihon)
+
+---
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergey-tihon&theme=transparent" alt="Profile Details" />
 </p>
 
-<!---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://fsharp.org" target="_blank"> <img src="https://fsharp.org/img/logo/fsharp.svg" alt="fsharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-tihon&layout=compact" alt="sergey-tihon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergey-tihon&show_icons=true" alt="sergey-tihon" /></p>
--->
