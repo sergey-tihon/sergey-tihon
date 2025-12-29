@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Software Engineer at EPAM</h1>
+<h1 align="center">Hi 👋, I'm a Software Engineer at EPAM</h1>
 <h3 align="center">Father | Husband | Developer | Microsoft MVP</h3>
 
 ---
 
-[![My Interests](https://skillicons.dev/icons?i=dotnet,rust,neovim,obsidian,github,rider,arch,bevy,azure)](https://skillicons.dev)
+[![My Interests](https://skillicons.dev/icons?i=dotnet,rust,neovim,obsidian,rider,arch,bevy,elasticsearch)](https://skillicons.dev)
 
 ---
 
