@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #1, 2026 – Kipo &amp; future of MonoGame](https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/)
 - [F# Weekly #52, 2025 – Happy New Year](https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/)
 - [F# Weekly #51, 2025 – WebSharper 10 &amp; Fidelity Framework](https://sergeytihon.com/2025/12/20/f-weekly-51-2025-websharper-10-fidelity-framework/)
 - [F# Weekly #50, 2025 – Making of A Programming Language](https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/)
 - [F# Weekly #49, 2025 – Oxpecker 2, fsi-mcp, LSP &amp; AOC in F#](https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/)
-- [F# Weekly #48, 2025 – #FsAdvent starts Dec 1st.](https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
