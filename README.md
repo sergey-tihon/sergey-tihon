@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #3, 2026 – Most token-efficient static language?](https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/)
 - [F# Weekly #2, 2026 – Mibo and WREN Stack](https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/)
 - [Running Home Assistant &amp; Matter Server on a UGREEN NAS: A Deep Dive into Thread Device Commissioning](https://sergeytihon.com/2026/01/03/running-home-assistant-matter-server-on-a-ugreen-nas-a-deep-dive-into-thread-device-commissioning/)
 - [F# Weekly #1, 2026 – Kipo &amp; future of MonoGame](https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/)
 - [F# Weekly #52, 2025 – Happy New Year](https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/)
-- [F# Weekly #51, 2025 – WebSharper 10 &amp; Fidelity Framework](https://sergeytihon.com/2025/12/20/f-weekly-51-2025-websharper-10-fidelity-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
