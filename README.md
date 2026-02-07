@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #6, 2026 – FScript &amp; An ode to “Slowly” handcrafted code](https://sergeytihon.com/2026/02/07/f-weekly-6-2026-fscript-an-ode-to-slowly-handcrafted-code/)
 - [F# Weekly #5, 2026 – Leveling Up With Lattice](https://sergeytihon.com/2026/02/01/f-weekly-5-2026-leveling-up-with-lattice/)
 - [F# Weekly #4, 2026 – F# event / &lpar;un&rpar;conference in 2026?](https://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/)
 - [F# Weekly #3, 2026 – Most token-efficient static language?](https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/)
 - [F# Weekly #2, 2026 – Mibo and WREN Stack](https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/)
-- [Running Home Assistant &amp; Matter Server on a UGREEN NAS: A Deep Dive into Thread Device Commissioning](https://sergeytihon.com/2026/01/03/running-home-assistant-matter-server-on-a-ugreen-nas-a-deep-dive-into-thread-device-commissioning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
