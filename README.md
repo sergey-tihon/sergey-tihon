@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #9, 2026 – Crunching the Technical Debt with Repo Assist](https://sergeytihon.com/2026/03/01/f-weekly-9-2026-crunching-the-technical-debt-with-repo-assist/)
 - [F# Weekly #8, 2026 – Boosting F# Libraries with Automated Agentic AI](https://sergeytihon.com/2026/02/22/f-weekly-8-2026-boosting-f-libraries-with-automated-agentic-ai/)
 - [F# Weekly #7, 2026 – .NET 11 Preview 1 &amp; Rider 2026.1 EAP 3](https://sergeytihon.com/2026/02/14/f-weekly-7-2026-net-11-preview-1-rider-2026-1-eap-3/)
 - [F# Weekly #6, 2026 – FScript &amp; An ode to “Slowly” handcrafted code](https://sergeytihon.com/2026/02/07/f-weekly-6-2026-fscript-an-ode-to-slowly-handcrafted-code/)
 - [F# Weekly #5, 2026 – Leveling Up With Lattice](https://sergeytihon.com/2026/02/01/f-weekly-5-2026-leveling-up-with-lattice/)
-- [F# Weekly #4, 2026 – F# event / &lpar;un&rpar;conference in 2026?](https://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
