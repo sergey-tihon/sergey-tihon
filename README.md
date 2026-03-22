@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #12, 2026 – 11 years of Ionide 🥰](https://sergeytihon.com/2026/03/22/f-weekly-12-2026-11-years-of-ionide-%f0%9f%a5%b0/)
 - [F# Weekly #11, 2026 – F# in .NET 11 Preview 2](https://sergeytihon.com/2026/03/14/f-weekly-11-2026-f-in-net-11-preview-2/)
 - [F# Weekly #10, 2026 – Start Your Day With Code That’s Better](https://sergeytihon.com/2026/03/08/f-weekly-10-2026-start-your-day-with-code-thats-better/)
 - [F# Weekly #9, 2026 – Crunching the Technical Debt with Repo Assist](https://sergeytihon.com/2026/03/01/f-weekly-9-2026-crunching-the-technical-debt-with-repo-assist/)
 - [F# Weekly #8, 2026 – Boosting F# Libraries with Automated Agentic AI](https://sergeytihon.com/2026/02/22/f-weekly-8-2026-boosting-f-libraries-with-automated-agentic-ai/)
-- [F# Weekly #7, 2026 – .NET 11 Preview 1 &amp; Rider 2026.1 EAP 3](https://sergeytihon.com/2026/02/14/f-weekly-7-2026-net-11-preview-1-rider-2026-1-eap-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
