@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #15, 2026 – Akkling, FSharp.Data and RANSAC auto-tune](https://sergeytihon.com/2026/04/11/f-weekly-15-2026-akkling-fsharp-data-and-ransac-auto-tune/)
 - [F# Weekly #14, 2026 – Serde.FS Brings Compile-Time RPC to F#](https://sergeytihon.com/2026/04/05/f-weekly-14-2026-serde-fs-brings-compile-time-rpc-to-f/)
 - [F# Weekly #13, 2026 – Deedle 4.0 is out!](https://sergeytihon.com/2026/03/29/f-weekly-13-2026-deedle-4-0-is-out/)
 - [F# Weekly #12, 2026 – 11 years of Ionide 🥰](https://sergeytihon.com/2026/03/22/f-weekly-12-2026-11-years-of-ionide-%f0%9f%a5%b0/)
 - [F# Weekly #11, 2026 – F# in .NET 11 Preview 2](https://sergeytihon.com/2026/03/14/f-weekly-11-2026-f-in-net-11-preview-2/)
-- [F# Weekly #10, 2026 – Start Your Day With Code That’s Better](https://sergeytihon.com/2026/03/08/f-weekly-10-2026-start-your-day-with-code-thats-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
