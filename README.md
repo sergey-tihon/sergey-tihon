@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #18, 2026 – Game Boy Emulator in F#](https://sergeytihon.com/2026/05/03/f-weekly-18-2026-game-boy-emulator-in-f/)
 - [F# Weekly #17, 2026 – Fable 5.0](https://sergeytihon.com/2026/04/25/f-weekly-17-2026-fable-5-0/)
 - [F# Weekly #16, 2026 – .NET 11 Preview 3 &amp; SwaggerProvider 4.0 beta](https://sergeytihon.com/2026/04/19/f-weekly-16-2026-net-11-preview-3-swaggerprovider-4-0-beta/)
 - [F# Weekly #15, 2026 – Akkling, FSharp.Data and RANSAC auto-tune](https://sergeytihon.com/2026/04/11/f-weekly-15-2026-akkling-fsharp-data-and-ransac-auto-tune/)
 - [F# Weekly #14, 2026 – Serde.FS Brings Compile-Time RPC to F#](https://sergeytihon.com/2026/04/05/f-weekly-14-2026-serde-fs-brings-compile-time-rpc-to-f/)
-- [F# Weekly #13, 2026 – Deedle 4.0 is out!](https://sergeytihon.com/2026/03/29/f-weekly-13-2026-deedle-4-0-is-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
