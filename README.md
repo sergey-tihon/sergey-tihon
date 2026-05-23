@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #21, 2026 –  Scriptorium, Elmish Land 2.0 Preview &amp; RProvider 3.0](https://sergeytihon.com/2026/05/23/f-weekly-21-2026-scriptorium-elmish-land-2-0-preview-rprovider-3-0/)
 - [F# Weekly #20, 2026 – .NET 11 Preview 4 and SwaggerProvider 4.0](https://sergeytihon.com/2026/05/16/f-weekly-20-2026-net-11-preview-4-and-swaggerprovider-4-0/)
 - [F# Weekly #19, 2026 – Understanding Compilers Through an Algebraic Expression Compiler](https://sergeytihon.com/2026/05/09/f-weekly-19-2026-understanding-compilers-through-an-algebraic-expression-compiler/)
 - [F# Weekly #18, 2026 – Game Boy Emulator in F#](https://sergeytihon.com/2026/05/03/f-weekly-18-2026-game-boy-emulator-in-f/)
 - [F# Weekly #17, 2026 – Fable 5.0](https://sergeytihon.com/2026/04/25/f-weekly-17-2026-fable-5-0/)
-- [F# Weekly #16, 2026 – .NET 11 Preview 3 &amp; SwaggerProvider 4.0 beta](https://sergeytihon.com/2026/04/19/f-weekly-16-2026-net-11-preview-3-swaggerprovider-4-0-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
