@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #26, 2026 — Fable REPL on BEAM &amp; WebSharper 10.1](https://sergeytihon.com/2026/06/27/f-weekly-26-2026-fable-repl-on-beam-websharper-10-1/)
 - [F# Weekly #25, 2026 — Expecto 11.1 &amp; Fable 5.3](https://sergeytihon.com/2026/06/20/f-weekly-25-2026-expecto-11-1-fable-5-3/)
 - [F# Weekly #24, 2026 — Fable 5.2, Expecto 11 &amp; .NET 11 Preview 5](https://sergeytihon.com/2026/06/13/f-weekly-24-2026-fable-5-2-expecto-11-net-11-preview-5/)
 - [F# Weekly #23, 2026 – Wolverine/Marten F# Improvements](https://sergeytihon.com/2026/06/06/f-weekly-23-2026-wolverine-marten-f-improvements/)
 - [F# Weekly #22, 2026 –  Fable 5.1 &amp; Mibo.Raylib 1.0](https://sergeytihon.com/2026/05/31/f-weekly-22-2026-fable-5-1-mibo-raylib-1-0/)
-- [F# Weekly #21, 2026 –  Scriptorium, Elmish Land 2.0 Preview &amp; RProvider 3.0](https://sergeytihon.com/2026/05/23/f-weekly-21-2026-scriptorium-elmish-land-2-0-preview-rprovider-3-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
