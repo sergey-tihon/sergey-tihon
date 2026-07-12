@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #28 — Mibo 2.0, Fable 5.7, and Cast Shadows in F#](https://sergeytihon.com/2026/07/12/f-weekly-28-mibo-2-0-fable-5-7-and-cast-shadows-in-f/)
 - [F# Weekly #27, 2026 — Fable 5.5, SkiaSharp 4 &amp; Orleans.FSharp 3.0](https://sergeytihon.com/2026/07/05/f-weekly-27-2026-fable-5-5-skiasharp-4-orleans-fsharp-3-0/)
 - [F# Weekly #26, 2026 — Fable REPL on BEAM &amp; WebSharper 10.1](https://sergeytihon.com/2026/06/27/f-weekly-26-2026-fable-repl-on-beam-websharper-10-1/)
 - [F# Weekly #25, 2026 — Expecto 11.1 &amp; Fable 5.3](https://sergeytihon.com/2026/06/20/f-weekly-25-2026-expecto-11-1-fable-5-3/)
 - [F# Weekly #24, 2026 — Fable 5.2, Expecto 11 &amp; .NET 11 Preview 5](https://sergeytihon.com/2026/06/13/f-weekly-24-2026-fable-5-2-expecto-11-net-11-preview-5/)
-- [F# Weekly #23, 2026 – Wolverine/Marten F# Improvements](https://sergeytihon.com/2026/06/06/f-weekly-23-2026-wolverine-marten-f-improvements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
