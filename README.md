@@ -8,10 +8,10 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
-- [F# Weekly #31 — MCP C# SDK v2.0, Unit-Test Agent, and MSBuild Binlog in VS Code](https://sergeytihon.com/2026/08/01/f-weekly-31-mcp-c-sdk-v2-0-unit-test-agent-and-msbuild-binlog-in-vs-code/)
-- [F# Weekly #30 — FsHttp.Studio &amp; fable-lit-fullstack-template](https://sergeytihon.com/2026/07/25/f-weekly-30-fshttp-studio-fable-lit-fullstack-template/)
-- [F# Weekly #29 — .NET 11 Preview 6 and Mibo 3.0](https://sergeytihon.com/2026/07/19/f-weekly-29-net-11-preview-6-and-mibo-3-0/)
-- [F# Weekly #28 — Mibo 2.0, Fable 5.7, and Cast Shadows in F#](https://sergeytihon.com/2026/07/12/f-weekly-28-mibo-2-0-fable-5-7-and-cast-shadows-in-f/)
+- [F# Weekly #31, 2026 — MCP C# SDK v2.0, Unit-Test Agent, and MSBuild Binlog in VS Code](https://sergeytihon.com/2026/08/01/f-weekly-31-mcp-c-sdk-v2-0-unit-test-agent-and-msbuild-binlog-in-vs-code/)
+- [F# Weekly #30, 2026 — FsHttp.Studio &amp; fable-lit-fullstack-template](https://sergeytihon.com/2026/07/25/f-weekly-30-fshttp-studio-fable-lit-fullstack-template/)
+- [F# Weekly #29, 2026 — .NET 11 Preview 6 and Mibo 3.0](https://sergeytihon.com/2026/07/19/f-weekly-29-net-11-preview-6-and-mibo-3-0/)
+- [F# Weekly #28, 2026 — Mibo 2.0, Fable 5.7, and Cast Shadows in F#](https://sergeytihon.com/2026/07/12/f-weekly-28-mibo-2-0-fable-5-7-and-cast-shadows-in-f/)
 - [F# Weekly #27, 2026 — Fable 5.5, SkiaSharp 4 &amp; Orleans.FSharp 3.0](https://sergeytihon.com/2026/07/05/f-weekly-27-2026-fable-5-5-skiasharp-4-orleans-fsharp-3-0/)
 <!-- BLOG-POST-LIST:END -->
 
