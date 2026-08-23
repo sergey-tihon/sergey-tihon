@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [MacBook, K860, Glove80, Go60, Golden Kiwi: 10 Years of Ergonomics](https://sergeytihon.com/2026/08/23/macbook-k860-glove80-go60-golden-kiwi-10-years-of-ergonomics/)
 - [F# Weekly #34, 2026 — Every Repo is A Software Factory Now](https://sergeytihon.com/2026/08/22/f-weekly-34-2026-every-repo-is-a-software-factory-now/)
 - [F# Weekly #33, 2026 — .NET 11 Preview 7 Ships with F# Updates and PaketaBot](https://sergeytihon.com/2026/08/15/f-weekly-33-2026-net-11-preview-7-ships-with-f-updates-and-paketabot/)
 - [F# Weekly #32,  2026 — FSharp.Data 8.2.0, Mibo 4.0, and F# MCP Ecosystem Grows](https://sergeytihon.com/2026/08/08/f-weekly-32-2026-fsharp-data-8-2-0-mibo-4-0-and-f-mcp-ecosystem-grows/)
 - [F# Weekly #31, 2026 — MCP C# SDK v2.0, Unit-Test Agent, and MSBuild Binlog in VS Code](https://sergeytihon.com/2026/08/01/f-weekly-31-mcp-c-sdk-v2-0-unit-test-agent-and-msbuild-binlog-in-vs-code/)
-- [F# Weekly #30, 2026 — FsHttp.Studio &amp; fable-lit-fullstack-template](https://sergeytihon.com/2026/07/25/f-weekly-30-fshttp-studio-fable-lit-fullstack-template/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
