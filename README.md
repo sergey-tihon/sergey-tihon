@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #42, 2026 – F# 11 RC2 &amp; compiler performance improvements](https://sergeytihon.com/2026/10/17/f-weekly-42-2026-f-11-rc2-compiler-performance-improvements/)
 - [F# Weekly #41, 2026 – Paket 11 &amp; Firelight](https://sergeytihon.com/2026/10/10/f-weekly-41-2026-paket-11-firelight/)
 - [F# Weekly #40, 2026 – Agentic .NET UI and FSharp.CloudEdge](https://sergeytihon.com/2026/10/03/f-weekly-40-2026-agentic-net-ui-and-fsharp-cloudedge/)
 - [F# Weekly #39, 2026 – Oxpecker 3](https://sergeytihon.com/2026/09/27/f-weekly-39-2026-oxpecker-3/)
 - [F# Weekly #38, 2026 — Fantomas 8.0, Myriad 1.0 and Fable.Ripple](https://sergeytihon.com/2026/09/19/f-weekly-38-2026-fantomas-8-0-myriad-1-0-and-fable-ripple/)
-- [F# Weekly #37, 2026 — F# 11 RC1 and Fantomas 8 Beta Land](https://sergeytihon.com/2026/09/12/f-weekly-37-2026-f-11-rc1-and-fantomas-8-beta-land/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
