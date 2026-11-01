@@ -8,11 +8,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [F# Weekly #44, 2026 – Plotly.NET 6.0, and a new F# Advent Calendar](https://sergeytihon.com/2026/11/01/f-weekly-44-2026-plotly-net-6-0-and-a-new-f-advent-calendar/)
 - [F# Advent Calendar in English 2026](https://sergeytihon.com/2026/10/25/f-advent-calendar-in-english-2026/)
 - [F# Weekly #43, 2026 –Fable 5.24 and Ionide 8](https://sergeytihon.com/2026/10/25/f-weekly-43-2026-fable-5-24-and-ionide-8/)
 - [F# Weekly #42, 2026 – F# 11 RC2 &amp; compiler performance improvements](https://sergeytihon.com/2026/10/17/f-weekly-42-2026-f-11-rc2-compiler-performance-improvements/)
 - [F# Weekly #41, 2026 – Paket 11 &amp; Firelight](https://sergeytihon.com/2026/10/10/f-weekly-41-2026-paket-11-firelight/)
-- [F# Weekly #40, 2026 – Agentic .NET UI and FSharp.CloudEdge](https://sergeytihon.com/2026/10/03/f-weekly-40-2026-agentic-net-ui-and-fsharp-cloudedge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
